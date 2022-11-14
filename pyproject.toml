@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "code-names-bot-clue-labeler"
+version = "0.1.0"
+description = ""
+authors = ["Nalu Zou"]
+readme = "README.md"
+packages = [{include = "code_names_bot_clue_labeler"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+networkx = "^2.8.8"
+tqdm = "^4.64.1"
+colorama = "^0.4.6"
+
+[tool.poetry.scripts]
+labeler                                  = "code_names_bot_clue_labeler.labeler:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
