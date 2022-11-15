@@ -1,0 +1,25 @@
+{
+    "SENSE|m_en_gb_oed227739_206791865.002": {
+        "cardword": "WEB",
+        "labels": {
+            "m_en_gbus0786500.024": 2,
+            "m_en_gbus1149850.009": 2
+        }
+    },
+    "SENSE|m_en_gbus0744150.007": {
+        "cardword": "PAN",
+        "labels": {
+            "m_en_gbus0313080.014": 1,
+            "m_en_gbus0377620.007": 2,
+            "m_en_gbus0478730.006": 1,
+            "m_en_gbus0665370.002": 2,
+            "m_en_gbus0745540.005": 2,
+            "m_en_gbus0786970.006": 1,
+            "m_en_gbus1007010.008": 1,
+            "m_en_gbus1021200.049": 2,
+            "m_en_gbus1087040.004": 0,
+            "m_en_gbus1125990.006": 1,
+            "m_en_gbus1128590.006": 2
+        }
+    }
+}

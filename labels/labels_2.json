@@ -1,0 +1,32 @@
+{
+    "SENSE|Ancient_Greece --> TEXT|Ancient_Greece_def:193:14 --> SENSE|m_en_gbus0584590.004 --> TEXT|m_en_gbus0584590.004_def:37:11 --> SENSE|m_en_gbus0584610.005": {
+        "cardword": "GREECE",
+        "clue": "LINGUISTICS",
+        "label": 1
+    },
+    "SENSE|Ancient_Greece --> TEXT|Ancient_Greece_def:216:4 --> SENSE|m_en_gbus0186000.006 --> TEXT|m_en_gbus0186000.006_def:2:5 --> SENSE|m_en_gbus0565860.006": {
+        "cardword": "GREECE",
+        "clue": "LARGE",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0411110.005 --> TEXT|m_en_gbus0411110.005_text_1:85:12 --> SENSE|m_en_gbus0273780.007 --> DOMAIN|m_en_gbus0273780.007:m_en_gbus0795630.016 --> SENSE|m_en_gbus0795630.016": {
+        "cardword": "GERMANY",
+        "clue": "POLITICS",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0608490.007 --> TEXT|m_en_gbus0608490.007_def:4:6 --> SENSE|m_en_gbus0802760.007 <-- TEXT|m_en_gbus0803480.009_def:25:6 <-- SENSE|m_en_gbus0803480.009": {
+        "cardword": "MAIL",
+        "clue": "POSTMARKS",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0805510.010 --> TEXT|m_en_gbus0805510.010_def:59:15 --> SENSE|m_en_gbus0808740.003 <-- TEXT|m_en_gbus0120380.008_def:38:14 <-- SENSE|m_en_gbus0120380.008": {
+        "cardword": "POUND",
+        "clue": "BRACTEATE",
+        "label": 1
+    },
+    "SENSE|m_en_gbus1084360.004 --> TEXT|m_en_gbus1084360.004_def:13:12 --> SENSE|m_en_gbus0971290.009 --> TEXT|m_en_gbus0971290.009_def:92:6 --> SENSE|m_en_gbus0857520.016": {
+        "cardword": "PARK",
+        "clue": "REGIONS",
+        "label": 0
+    }
+}

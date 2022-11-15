@@ -1,0 +1,273 @@
+{
+    "SENSE|m_en_gb_oed160134_26335947.002": {
+        "cardword": "ROCK",
+        "labels": {
+            "m_en_gbus0117740.013": 1,
+            "m_en_gbus0174090.007": 3,
+            "m_en_gbus0353440.021": 2,
+            "m_en_gbus0381910.054": 0,
+            "m_en_gbus0767590.005": 2,
+            "m_en_gbus0852870.003": 2
+        }
+    },
+    "SENSE|m_en_gbus0044140.006": {
+        "cardword": "MOUNT",
+        "labels": {
+            "m_en_gbus0372720.011": 2,
+            "m_en_gbus0378620.031": 0,
+            "m_en_gbus0466520.008": 1,
+            "m_en_gbus0693930.006": 2,
+            "m_en_gbus0758210.023": 2,
+            "m_en_gbus0866240.004": 2,
+            "m_en_gbus0875650.037": 1,
+            "m_en_gbus0949380.009": 2,
+            "m_en_gbus1067380.005": 0
+        }
+    },
+    "SENSE|m_en_gbus0132390.019": {
+        "cardword": "BUFFALO",
+        "labels": {
+            "m_en_gbus0203870.008": 0,
+            "m_en_gbus0366150.022": 2,
+            "m_en_gbus0389690.018": 2,
+            "m_en_gbus0565860.006": 2,
+            "m_en_gbus0585300.006": 2,
+            "m_en_gbus0700580.004": 2,
+            "m_en_gbus0717430.019": 1,
+            "m_en_gbus1046970.006": 0
+        }
+    },
+    "SENSE|m_en_gbus0150040.019": {
+        "cardword": "CAPITAL",
+        "labels": {
+            "m_en_gbus0549180.014": 0,
+            "m_en_gbus0751620.006": 0,
+            "m_en_gbus0865550.018": 2,
+            "m_en_gbus1119260.005": 2
+        }
+    },
+    "SENSE|m_en_gbus0246770.010": {
+        "cardword": "CZECH",
+        "labels": {
+            "m_en_gbus0191580.011": 0,
+            "m_en_gbus0246820.004": 2,
+            "m_en_gbus0564610.006": 2,
+            "m_en_gbus0859220.013": 0,
+            "m_en_gbus0954090.017": 2,
+            "m_en_gbus0956570.012": 2,
+            "m_en_gbus0974660.021": 2,
+            "m_en_gbus1150450.010": 3
+        }
+    },
+    "SENSE|m_en_gbus0256800.016": {
+        "cardword": "DECK",
+        "labels": {
+            "m_en_gbus0369570.019": 2,
+            "m_en_gbus0950500.005": 2,
+            "m_en_gbus0961900.005": 2
+        }
+    },
+    "SENSE|m_en_gbus0270620.004": {
+        "cardword": "TOWER",
+        "labels": {
+            "m_en_gbus0201580.006": 2,
+            "m_en_gbus0378620.031": 0,
+            "m_en_gbus0466520.013": 2,
+            "m_en_gbus0679680.002": 2,
+            "m_en_gbus0700860.005": 0,
+            "m_en_gbus0878040.008": 2,
+            "m_en_gbus1171370.009": 2,
+            "m_en_gbus1182066.007": 0
+        }
+    },
+    "SENSE|m_en_gbus0375190.036": {
+        "cardword": "FLY",
+        "labels": {
+            "m_en_gbus0282820.005": 2,
+            "m_en_gbus0282820.026": 2,
+            "m_en_gbus0368130.008": 2,
+            "m_en_gbus0368440.005": 2,
+            "m_en_gbus0855890.006": 0
+        }
+    },
+    "SENSE|m_en_gbus0375200.015": {
+        "cardword": "FLY",
+        "labels": {
+            "m_en_gbus0034270.005": 2,
+            "m_en_gbus0375190.017": 0,
+            "m_en_gbus0507480.004": 2,
+            "m_en_gbus0511770.005": 2,
+            "m_en_gbus0787470.006": 2
+        }
+    },
+    "SENSE|m_en_gbus0526330.013": {
+        "cardword": "IVORY",
+        "labels": {
+            "m_en_gbus0768650.009": 0,
+            "m_en_gbus1061220.009": 2
+        }
+    },
+    "SENSE|m_en_gbus0574870.009": {
+        "cardword": "LEMON",
+        "labels": {
+            "m_en_gbus0298240.025": 2,
+            "m_en_gbus0574940.002": 2
+        }
+    },
+    "SENSE|m_en_gbus0638170.009": {
+        "cardword": "MEXICO",
+        "labels": {
+            "m_en_gbus0150040.006": 1,
+            "m_en_gbus0163720.006": 0,
+            "m_en_gbus0638170.007": 2,
+            "m_en_gbus0638180.003": 2,
+            "m_en_gbus0989430.015": 3,
+            "m_en_gbus1059690.005": 3,
+            "m_en_gbus1150450.010": 0
+        }
+    },
+    "SENSE|m_en_gbus0783370.010": {
+        "cardword": "PIPE",
+        "labels": {
+            "m_en_gbus0161330.005": 2,
+            "m_en_gbus0636070.006": 2
+        }
+    },
+    "SENSE|m_en_gbus0784650.006": {
+        "cardword": "PISTOL",
+        "labels": {
+            "m_en_gbus0268030.024": 0,
+            "m_en_gbus0363930.005": 2,
+            "m_en_gbus0448120.008": 2,
+            "m_en_gbus0472970.010": 2,
+            "m_en_gbus0957610.004": 2
+        }
+    },
+    "SENSE|m_en_gbus0787980.020": {
+        "cardword": "PLASTIC",
+        "labels": {
+            "m_en_gbus0048940.011": 2,
+            "m_en_gbus0276150.009": 1,
+            "m_en_gbus0313080.007": 1,
+            "m_en_gbus0652690.031": 2,
+            "m_en_gbus0664080.012": 2,
+            "m_en_gbus0818570.020": 0,
+            "m_en_gbus0859220.016": 0,
+            "m_en_gbus1049740.006": 2
+        }
+    },
+    "SENSE|m_en_gbus0872330.003": {
+        "cardword": "CLIFF",
+        "labels": {
+            "m_en_gbus0115500.005": 0,
+            "m_en_gbus0126550.006": 2,
+            "m_en_gbus0503890.005": 2,
+            "m_en_gbus0799680.013": 2,
+            "m_en_gbus0947620.005": 2,
+            "m_en_gbus1146810.003": 3
+        }
+    },
+    "SENSE|m_en_gbus0930820.021": {
+        "cardword": "SHADOW",
+        "labels": {
+            "m_en_gbus0343230.017": 2,
+            "m_en_gbus0768190.006": 2,
+            "m_en_gbus0892300.005": 2
+        }
+    },
+    "SENSE|m_en_gbus0937710.006": {
+        "cardword": "SHOE",
+        "labels": {
+            "m_en_gbus0034680.005": 2,
+            "m_en_gbus0227950.005": 2,
+            "m_en_gbus0378620.010": 2,
+            "m_en_gbus0454270.030": 0,
+            "m_en_gbus0571770.007": 2,
+            "m_en_gbus0848220.023": 0,
+            "m_en_gbus0966460.008": 2,
+            "m_en_gbus1005500.011": 0,
+            "m_en_gbus1087040.004": 0
+        }
+    },
+    "SENSE|m_en_gbus0952920.005": {
+        "cardword": "SKYSCRAPER",
+        "labels": {
+            "m_en_gbus0132950.007": 2,
+            "m_en_gbus0999140.009": 2,
+            "m_en_gbus1028400.005": 2
+        }
+    },
+    "SENSE|m_en_gbus0978530.024": {
+        "cardword": "SPINE",
+        "labels": {
+            "m_en_gbus0344810.010": 2,
+            "m_en_gbus0568510.005": 2,
+            "m_en_gbus0621960.013": 2,
+            "m_en_gbus1028400.005": 2,
+            "m_en_gbus1132050.005": 2,
+            "m_en_gbus1134600.005": 2
+        }
+    },
+    "SENSE|m_en_gbus0982610.025": {
+        "cardword": "SPRING",
+        "labels": {
+            "m_en_gbus0041460.006": 2,
+            "m_en_gbus0270180.024": 2,
+            "m_en_gbus1009910.005": 1
+        }
+    },
+    "SENSE|m_en_gbus0983620.022": {
+        "cardword": "SPY",
+        "labels": {
+            "m_en_gbus0199470.014": 2,
+            "m_en_gbus0206020.008": 2,
+            "m_en_gbus0324120.005": 2,
+            "m_en_gbus0425260.007": 2,
+            "m_en_gbus0508280.006": 2,
+            "m_en_gbus0726120.007": 2,
+            "m_en_gbus0916610.005": 2,
+            "m_en_gbus1167380.054": 1
+        }
+    },
+    "SENSE|m_en_gbus1010920.034": {
+        "cardword": "SUIT",
+        "labels": {
+            "m_en_gbus0008170.010": 0,
+            "m_en_gbus0191940.006": 2,
+            "m_en_gbus0333360.007": 0,
+            "m_en_gbus0751620.006": 0
+        }
+    },
+    "SENSE|m_en_gbus1065250.003": {
+        "cardword": "BRIDGE",
+        "labels": {
+            "m_en_gbus0206270.022": 0
+        }
+    },
+    "SENSE|m_en_gbus1103380.002": {
+        "cardword": "CHURCH",
+        "labels": {
+            "m_en_gbus0324770.005": 2,
+            "m_en_gbus0381910.047": 0,
+            "m_en_gbus0812090.008": 2,
+            "m_en_gbus1102730.009": 2,
+            "m_en_gbus1138370.005": 2
+        }
+    },
+    "SENSE|m_en_gbus1163490.015": {
+        "cardword": "WITCH",
+        "labels": {
+            "m_en_gbus0203290.007": 1,
+            "m_en_gbus0311910.005": 2,
+            "m_en_gbus0369740.007": 2,
+            "m_en_gbus1119310.008": 0
+        }
+    },
+    "SENSE|m_en_gbus1173710.009": {
+        "cardword": "YARD",
+        "labels": {
+            "m_en_gbus0402640.008": 2,
+            "m_en_gbus0481790.010": 2
+        }
+    }
+}

@@ -1,0 +1,327 @@
+{
+    "SENSE|m_en_gb_oed113034_38308516.002 --> TEXT|m_en_gb_oed113034_38308516.002_def:11:6 --> SENSE|m_en_gbus1080550.005": {
+        "cardword": "TUBE",
+        "clue": "TUBULE",
+        "label": 2
+    },
+    "SENSE|m_en_gb_oed121073.002 --> TEXT|m_en_gb_oed121073.002_def:2:10 --> SENSE|m_en_gbus0927200.012": {
+        "cardword": "MARBLE",
+        "clue": "SERPENTINE",
+        "label": 2
+    },
+    "SENSE|m_en_gb_oed17950_22810836.002 --> TEXT|m_en_gb_oed17950_22810836.002_def:160:12 --> SENSE|m_en_gbus0936220.004": {
+        "cardword": "BERMUDA",
+        "clue": "SHIPBUILDING",
+        "label": 2
+    },
+    "SENSE|m_en_gb_oed245752_12368569.002 --> TEXT|m_en_gb_oed245752_12368569.002_def:57:6 --> SENSE|m_en_gbus0136330.023": {
+        "cardword": "FOREST",
+        "clue": "BURNETS",
+        "label": 2
+    },
+    "SENSE|m_en_gb_oed356203_271984121.002 --> TEXT|m_en_gb_oed356203_271984121.002_def:16:6 --> SENSE|m_en_gbus0713090.015": {
+        "cardword": "SHIP",
+        "clue": "OFFICES",
+        "label": 2
+    },
+    "SENSE|m_en_gb_oed99473_45845.002 --> TEXT|m_en_gb_oed99473_45845.002_def:95:9 --> SENSE|m_en_gbus1087040.004": {
+        "cardword": "BRIDGE",
+        "clue": "TYPICALLY",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0010180.005 <-- TEXT|m_en_gb_oed310419_236469340.002_def:141:10 <-- SENSE|m_en_gb_oed310419_236469340.002": {
+        "cardword": "CHAIR",
+        "clue": "BOAT",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0017950.022 --> TEXT|m_en_gbus0017950.022_def:10:5 --> SENSE|m_en_gbus0938800.004": {
+        "cardword": "AIR",
+        "clue": "SHORT",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0027700.005 --> TEXT|m_en_gbus0027700.005_def:2:7 --> SENSE|m_en_gbus1122780.010": {
+        "cardword": "AMBULANCE",
+        "clue": "VEHICLES",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0032880.017 --> TEXT|m_en_gbus0032880.017_def:22:7 --> SENSE|m_en_gbus0209390.006": {
+        "cardword": "ANGEL",
+        "clue": "CONDUCT",
+        "label": 1
+    },
+    "SENSE|m_en_gbus0038960.002 --> TEXT|m_en_gbus0038960.002_def:12:13 --> SENSE|m_en_gbus0382860.005": {
+        "cardword": "WALL",
+        "clue": "FORTIFICATION",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0072320.027 --> TEXT|m_en_gbus0072320.027_def:13:5 --> SENSE|m_en_gbus0672130.006": {
+        "cardword": "BAR",
+        "clue": "MUSIC",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0088980.006 --> DOMAIN|m_en_gbus0088980.006:m_en_gbus0378040.005 --> SENSE|m_en_gbus0378040.005": {
+        "cardword": "BERRY",
+        "clue": "FOOD",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0111690.010 --> DOMAIN|m_en_gbus0111690.010:m_en_gbus1146210.005 --> SENSE|m_en_gbus1146210.005": {
+        "cardword": "BOMB",
+        "clue": "WEAPON",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0114020.018 --> TEXT|m_en_gbus0114020.018_def:84:10 --> SENSE|m_en_gbus1015970.008": {
+        "cardword": "BOOM",
+        "clue": "SUPPORTED",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0116790.026 --> TEXT|m_en_gbus0116790.026_def:2:5 --> SENSE|m_en_gbus0565860.006": {
+        "cardword": "BOTTLE",
+        "clue": "LARGER",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0144220.009 <-- TEXT|m_en_gbus0745690.008_def:48:4 <-- SENSE|m_en_gbus0745690.008": {
+        "cardword": "CALF",
+        "clue": "PANTALOON",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0150040.019 --> TEXT|m_en_gbus0150040.019_def:11:8 --> SENSE|m_en_gbus0865550.018": {
+        "cardword": "CAPITAL",
+        "clue": "RESOURCES",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0150040.019 --> TEXT|m_en_gbus0150040.019_def:36:4 --> SENSE|m_en_gbus0549180.014": {
+        "cardword": "CAPITAL",
+        "clue": "KIND",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0155440.010 --> TEXT|m_en_gbus0155440.010_def:76:9 --> SENSE|m_en_gbus1122530.009": {
+        "cardword": "CARROT",
+        "clue": "VEGETABLES",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0169930.020 --> TEXT|m_en_gbus0169930.020_def:6:10 --> SENSE|m_en_gbus0316120.007": {
+        "cardword": "CHARGE",
+        "clue": "ELECTRICAL",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0196310.006 <-- TEXT|m_en_gbus0572860.007_def:24:4 <-- SENSE|m_en_gbus0572860.007": {
+        "cardword": "CODE",
+        "clue": "LEET",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0206810.048 --> SYNONYM|m_en_gbus0206810.048:m_en_gbus1168980.005 --> SENSE|m_en_gbus1168980.005": {
+        "cardword": "COMPOUND",
+        "clue": "WORSENS",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0215190.011 --> TEXT|m_en_gbus0215190.011_def:66:6 --> SENSE|m_en_gbus0989430.051": {
+        "cardword": "CONTRACT",
+        "clue": "STATE",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0218500.021 --> TEXT|m_en_gbus0218500.021_text_0:59:6 --> SENSE|m_en_gbus0724390.027": {
+        "cardword": "COPPER",
+        "clue": "ORANGE",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0227840.025 --> TEXT|m_en_gbus0227840.025_def:33:3 --> SENSE|m_en_gbus0756650.013": {
+        "cardword": "COVER",
+        "clue": "PAYED",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0230750.020 --> TEXT|m_en_gbus0230750.020_def:31:5 --> SENSE|m_en_gbus0814240.006": {
+        "cardword": "CRASH",
+        "clue": "PRICES",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0254630.012 --> TEXT|m_en_gbus0254630.012_def:38:8 --> SENSE|m_en_gbus0268920.005": {
+        "cardword": "DEATH",
+        "clue": "DESTROYED",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0298140.005 --> TEXT|m_en_gbus0298140.005_def:27:5 --> SENSE|m_en_gbus0584170.005": {
+        "cardword": "DRILL",
+        "clue": "LINEN",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0324650.011 --> TEXT|m_en_gbus0324650.011_def:2:8 --> SENSE|m_en_gbus0842520.013": {
+        "cardword": "ENGINE",
+        "clue": "RAILROAD",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0360650.011 --> TEXT|m_en_gbus0360650.011_def:25:8 --> SENSE|m_en_gbus0268030.024": {
+        "cardword": "FIGHTER",
+        "clue": "DESIGNING",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0409150.015 --> TEXT|m_en_gbus0409150.015_def:58:6 --> SENSE|m_en_gbus0768650.009": {
+        "cardword": "GENIUS",
+        "clue": "PEOPLE",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0422100.002 --> TEXT|m_en_gbus0422100.002_def:25:7 --> SENSE|m_en_gbus0713250.014": {
+        "cardword": "STICK",
+        "clue": "OFFICERS",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0431180.002 <-- TEXT|m_en_gbus0833900.008_text_0:24:19 <-- SENSE|m_en_gbus0833900.008": {
+        "cardword": "CHINA",
+        "clue": "CH'IN",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0468450.003 <-- TEXT|m_en_gb_oed81167_2431963.002_def:141:12 <-- SENSE|m_en_gb_oed81167_2431963.002": {
+        "cardword": "CODE",
+        "clue": "GREEN",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0522100.003 --> DOMAIN|m_en_gbus0522100.003:m_en_gbus0477210.009 --> SENSE|m_en_gbus0477210.009": {
+        "cardword": "IRON",
+        "clue": "HONOUR",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0549520.021 --> TEXT|m_en_gbus0549520.021_def:82:3 --> SENSE|m_en_gbus0005680.006": {
+        "cardword": "KING",
+        "clue": "ACES",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0553240.023 <-- TEXT|m_en_gbus0095320.004_text_2:7:8 <-- SENSE|m_en_gbus0095320.004": {
+        "cardword": "KNIGHT",
+        "clue": "BING",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0565220.016 <-- SYNONYM|m_en_gbus0979820.048:m_en_gbus0565220.016 <-- SENSE|m_en_gbus0979820.048": {
+        "cardword": "LAP",
+        "clue": "SPLASH",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0569360.023 --> TEXT|m_en_gbus0569360.023_def:26:5 --> SENSE|m_en_gbus0573300.010": {
+        "cardword": "LAWYER",
+        "clue": "LEGAL",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0570330.060 <-- SYNONYM|m_en_gbus0219550.012:m_en_gbus0570330.060 <-- SENSE|m_en_gbus0219550.012": {
+        "cardword": "LEAD",
+        "clue": "CORD",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0581170.021 --> TEXT|m_en_gbus0581170.021_def:56:7 --> SENSE|m_en_gbus0320930.005": {
+        "cardword": "LIGHT",
+        "clue": "EMOTION",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0590260.043 --> TEXT|m_en_gbus0590260.043_def:86:4 --> SENSE|m_en_gbus0334440.007": {
+        "cardword": "LOCK",
+        "clue": "&C.",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0591130.016 --> SYNONYM|m_en_gbus0591130.016:m_en_gbus0535970.010 --> SENSE|m_en_gbus0535970.010": {
+        "cardword": "LOG",
+        "clue": "JOURNAL",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0617250.020 <-- TEXT|m_en_gbus0616290.002_def:10:5 <-- SENSE|m_en_gbus0616290.002": {
+        "cardword": "MARCH",
+        "clue": "LAND",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0640600.006 --> TEXT|m_en_gbus0640600.006_def:11:10 --> SENSE|m_en_gbus0513510.007": {
+        "cardword": "MICROSCOPE",
+        "clue": "INSTRUMENT",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0664820.024 --> TEXT|m_en_gbus0664820.024_def:18:10 --> SENSE|m_en_gbus0333360.007": {
+        "cardword": "MOUSE",
+        "clue": "ESPECIALLY",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0667650.013 --> TEXT|m_en_gbus0667650.013_def:21:6 --> SENSE|m_en_gbus0768650.009": {
+        "cardword": "MUG",
+        "clue": "PEOPLE",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0676210.015 --> TEXT|m_en_gbus0676210.015_def:13:6 --> SENSE|m_en_gbus0575200.011": {
+        "cardword": "NAIL",
+        "clue": "LENGTH",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0685980.010 <-- TEXT|m_en_gbus1060210.065_def:22:3 <-- SENSE|m_en_gbus1060210.065": {
+        "cardword": "NET",
+        "clue": "TONS",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0751210.023 <-- SYNONYM|m_en_gbus0579500.008:m_en_gbus0751210.023 <-- SENSE|m_en_gbus0579500.008": {
+        "cardword": "PART",
+        "clue": "LIBRETTO",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0773440.004 --> TEXT|m_en_gbus0773440.004_def:7:6 --> SENSE|m_en_gbus0940880.006": {
+        "cardword": "LAWYER",
+        "clue": "SHREWD",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0795030.010 --> SYNONYM|m_en_gbus0795030.010:m_en_gbus0437910.017 --> SENSE|m_en_gbus0437910.017": {
+        "cardword": "POLICE",
+        "clue": "GUARD",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0815880.007 --> DOMAIN|m_en_gbus0815880.007:m_en_gbus0885870.006 --> SENSE|m_en_gbus0885870.006": {
+        "cardword": "PRINCESS",
+        "clue": "ROYALTY",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0829370.013 --> TEXT|m_en_gbus0829370.013_def:112:7 --> SENSE|m_en_gbus0857520.016": {
+        "cardword": "PUMPKIN",
+        "clue": "REGION",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0884340.021 --> TEXT|m_en_gbus0884340.021_def:55:11 --> SENSE|m_en_gbus0143950.005": {
+        "cardword": "ROUND",
+        "clue": "CALCULATION",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0951740.005 --> TEXT|m_en_gbus0951740.005_def:127:8 --> SENSE|m_en_gbus0824070.012": {
+        "cardword": "BOX",
+        "clue": "PROVIDES",
+        "label": 0
+    },
+    "SENSE|m_en_gbus0961800.012 --> TEXT|m_en_gbus0961800.012_def:21:5 --> SENSE|m_en_gbus1154700.012": {
+        "cardword": "SNOW",
+        "clue": "WHITER",
+        "label": 2
+    },
+    "SENSE|m_en_gbus1006330.005 <-- TEXT|m_en_gbus1006390.007_def:97:12 <-- SENSE|m_en_gbus1006390.007": {
+        "cardword": "SUB",
+        "clue": "BOREAL",
+        "label": 2
+    },
+    "SENSE|m_en_gbus1025140.025 --> TEXT|m_en_gbus1025140.025_def:10:4 --> SENSE|m_en_gbus1165390.006": {
+        "cardword": "TABLE",
+        "clue": "WOOD",
+        "label": 2
+    },
+    "SENSE|m_en_gbus1025140.027 --> TEXT|m_en_gbus1025140.027_def:6:3 --> SENSE|m_en_gbus0407140.014": {
+        "cardword": "TABLE",
+        "clue": "GEM",
+        "label": 2
+    },
+    "SENSE|m_en_gbus1067900.031 --> SYNONYM|m_en_gbus1067900.031:m_en_gbus0844740.016 --> SENSE|m_en_gbus0844740.016": {
+        "cardword": "TRAIN",
+        "clue": "RANK",
+        "label": 2
+    },
+    "SENSE|m_en_gbus1119770.006 --> TEXT|m_en_gbus1119770.006_text_0:8:8 --> SENSE|m_en_gbus0069380.010": {
+        "cardword": "VAN",
+        "clue": "BALLOON",
+        "label": 2
+    },
+    "SENSE|m_en_gbus1160210.017 --> SYNONYM|m_en_gbus1160210.017:m_en_gbus1085350.008 --> SENSE|m_en_gbus1085350.008": {
+        "cardword": "WIND",
+        "clue": "TWINE",
+        "label": 2
+    },
+    "SENSE|m_en_gbus1168590.007 --> TEXT|m_en_gbus1168590.007_def:9:6 --> SENSE|m_en_gbus0705320.014": {
+        "cardword": "WORM",
+        "clue": "NUMBER",
+        "label": 0
+    }
+}
