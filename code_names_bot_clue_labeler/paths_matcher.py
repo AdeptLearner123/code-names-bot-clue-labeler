@@ -2,7 +2,7 @@ from collections import namedtuple
 
 Rule = namedtuple("Rule", "node_types min_times max_times include_out include_in")
 
-def match_paths(graph, source, rules, target=None, cutoff=None):
+def match_paths(graph, source, rules, target = None, cutoff = None, filter = None):
     rules = [ rule_to_tuple(rule) for rule in rules ]
     rules = [ rule for rule in rules if rule.max_times > 0 ]
     return match_paths_helper(graph, [source], rules, target, cutoff)
@@ -31,7 +31,7 @@ def rule_to_tuple(rule):
     return Rule(node_types, min_times, max_times, include_out, include_in)
 
 
-def match_paths_helper(graph, current_path, rules, target = None, cutoff = None):
+def match_paths_helper(graph, current_path, rules, target = None, cutoff = None, filter = None):
     curr_node = current_path[-1]
     #print("Calling helper", current_path, rules, cutoff, curr_node, target, curr_node == target)
 
@@ -49,7 +49,7 @@ def match_paths_helper(graph, current_path, rules, target = None, cutoff = None)
 
     if min_times <= 0:
         # If the min requirement has been satisfied, can skip this rule
-        paths += match_paths_helper(graph, current_path, rules[1:], target, cutoff)
+        paths += match_paths_helper(graph, current_path, rules[1:], target, cutoff, filter)
 
     if max_times > 0:
         # If max requirement is still satisfied, apply rule again  
@@ -66,11 +66,14 @@ def match_paths_helper(graph, current_path, rules, target = None, cutoff = None)
             if edge_node in current_path:
                 continue
 
+            if filter is not None and not filter(curr_node, edge_node):
+                continue
+
             node_key = edge_node.split("|")[0]
             
             if node_key not in node_types:
                 continue
 
-            paths += match_paths_helper(graph, current_path + [edge_node], updated_rules, target, cutoff)
+            paths += match_paths_helper(graph, current_path + [edge_node], updated_rules, target, cutoff, filter)
     
     return paths

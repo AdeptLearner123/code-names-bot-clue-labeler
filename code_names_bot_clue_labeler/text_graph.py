@@ -12,12 +12,8 @@ def create_text_digraph():
     with open(LEMMA_SENSE_EDGES, "r") as file:
         lines = file.read().splitlines()
         for line in lines:
-            (lemma, sense, relation_type, data) = line.split("\t")
-            data = f"{data}:{lemma}:{sense}"
-
-            edge_key = get_key(relation_type, data)
-            graph.add_edge(get_key("LEMMA", lemma), edge_key)
-            graph.add_edge(edge_key, get_key("SENSE", sense))
+            (lemma, sense) = line.split("\t")
+            graph.add_edge(get_key("LEMMA", lemma), get_key("SENSE", sense))
     
     with open(SENSE_EDGES) as file:
         lines = file.read().splitlines()
