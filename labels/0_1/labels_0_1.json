@@ -1,0 +1,1150 @@
+{
+    "SENSE|Ancient_Greece <-- TEXT|m_en_gb_oed142580.003_def:65:14 <-- SENSE|m_en_gb_oed142580.003": {
+        "cardword": "GREECE",
+        "clue": "PHOCIAN",
+        "label": 2,
+        "source_lemma": "Ancient Greece",
+        "target_lemma": "Phocian"
+    },
+    "SENSE|Jet_Li <-- TEXT|Mulan_(2020_film)_text_1:124:6 <-- SENSE|Mulan_(2020_film)": {
+        "cardword": "JET",
+        "clue": "MULAN",
+        "label": 2,
+        "source_lemma": "Jet Li",
+        "target_lemma": "Mulan"
+    },
+    "SENSE|Jurassic_Park_(film) <-- TEXT|Vince_Vaughn_text_1:141:13 <-- SENSE|Vince_Vaughn": {
+        "cardword": "PARK",
+        "clue": "VAUGHN",
+        "label": 2,
+        "source_lemma": "Jurassic Park",
+        "target_lemma": "Vince Vaughn"
+    },
+    "SENSE|Phoenix_Suns <-- TEXT|Kris_Humphries_text_0:139:12 <-- SENSE|Kris_Humphries": {
+        "cardword": "PHOENIX",
+        "clue": "HUMPHRIES",
+        "label": 2,
+        "source_lemma": "Phoenix Suns",
+        "target_lemma": "Kris Humphries"
+    },
+    "SENSE|m_en_gb_oed129462_34029418.002 <-- TEXT|m_en_gb_oed163986_192594107.002_def:84:13 <-- SENSE|m_en_gb_oed163986_192594107.002": {
+        "cardword": "APPLE",
+        "clue": "RESTORATION",
+        "label": 2,
+        "source_lemma": "Oak-apple Day",
+        "target_lemma": "Restoration Day"
+    },
+    "SENSE|m_en_gb_oed26868_1218092580.002 <-- TEXT|m_en_gb_oed26871_306715502.002_def:4:16 <-- SENSE|m_en_gb_oed26871_306715502.002": {
+        "cardword": "CANADA",
+        "clue": "GOLDENROD",
+        "label": 2,
+        "source_lemma": "Canada goldenrod",
+        "target_lemma": "Canadian goldenrod"
+    },
+    "SENSE|m_en_gb_oed99473_199846189.002 <-- TEXT|m_en_gb_oed99473_189044006.002_def:17:11 <-- SENSE|m_en_gb_oed99473_189044006.002": {
+        "cardword": "DANCE",
+        "clue": "TROT",
+        "label": 2,
+        "source_lemma": "Irish dance",
+        "target_lemma": "Irish trot"
+    },
+    "SENSE|m_en_gbus0055400.005 <-- TEXT|m_en_gbus0055270.007_def:50:8 <-- SENSE|m_en_gbus0055270.007": {
+        "cardword": "ATLANTIS",
+        "clue": "ATLANTEAN",
+        "label": 2,
+        "source_lemma": "Atlantis",
+        "target_lemma": "Atlantean"
+    },
+    "SENSE|m_en_gbus0077420.005 <-- TEXT|m_en_gbus1113300.039_def:3:3 <-- SENSE|m_en_gbus1113300.039": {
+        "cardword": "BAT",
+        "clue": "UP",
+        "label": 2,
+        "source_lemma": "bat",
+        "target_lemma": "up"
+    },
+    "SENSE|m_en_gbus0078580.006 <-- TEXT|m_en_gbus0279770.020_def:65:7 <-- SENSE|m_en_gbus0279770.020": {
+        "cardword": "BATTERY",
+        "clue": "DISCHARGE",
+        "label": 2,
+        "source_lemma": "battery",
+        "target_lemma": "discharge"
+    },
+    "SENSE|m_en_gbus0078590.004 <-- TEXT|Frank_Grillo_text_3:94:7 <-- SENSE|Frank_Grillo": {
+        "cardword": "BATTERY",
+        "clue": "GRILLO",
+        "label": 3,
+        "source_lemma": "Battery",
+        "target_lemma": "Frank Grillo"
+    },
+    "SENSE|m_en_gbus0082220.025 <-- TEXT|m_en_gbus0069010.026_def:10:3 <-- SENSE|m_en_gbus0069010.026": {
+        "cardword": "BED",
+        "clue": "BALLAST",
+        "label": 2,
+        "source_lemma": "bed",
+        "target_lemma": "ballast"
+    },
+    "SENSE|m_en_gbus0084890.004 <-- TEXT|Mohamed_Hadid_text_0:67:7 <-- SENSE|Mohamed_Hadid": {
+        "cardword": "AIR",
+        "clue": "MOHAMED",
+        "label": 2,
+        "source_lemma": "Bel Air",
+        "target_lemma": "Mohamed Hadid"
+    },
+    "SENSE|m_en_gbus0088580.005 <-- TEXT|m_en_gbus0397180.004_def:54:6 <-- SENSE|m_en_gbus0397180.004": {
+        "cardword": "BERLIN",
+        "clue": "WILHELM",
+        "label": 3,
+        "source_lemma": "Berlin",
+        "target_lemma": "Wilhelm Furtwängler"
+    },
+    "SENSE|m_en_gbus0088640.003 <-- TEXT|m_en_gbus0121870.003_text_1:30:11 <-- SENSE|m_en_gbus0121870.003": {
+        "cardword": "BERLIN",
+        "clue": "BRANDENBURG",
+        "label": 2,
+        "source_lemma": "Berlin Wall",
+        "target_lemma": "Brandenburg Gate"
+    },
+    "SENSE|m_en_gbus0088980.022 <-- TEXT|Beastie_Boys_text_3:0:5 <-- SENSE|Beastie_Boys": {
+        "cardword": "BERRY",
+        "clue": "BEASTIE",
+        "label": 2,
+        "source_lemma": "berry",
+        "target_lemma": "Beastie Boys"
+    },
+    "SENSE|m_en_gbus0104260.066 <-- TEXT|m_en_gbus1176220.006_def:95:8 <-- SENSE|m_en_gbus1176220.006": {
+        "cardword": "BLOCK",
+        "clue": "YOHIMBINE",
+        "label": 1,
+        "source_lemma": "block",
+        "target_lemma": "yohimbine"
+    },
+    "SENSE|m_en_gbus0111690.006 <-- TEXT|m_en_gbus1000190.006_def:23:5 <-- SENSE|m_en_gbus1000190.006": {
+        "cardword": "BOMB",
+        "clue": "STRAFE",
+        "label": 2,
+        "source_lemma": "bomb",
+        "target_lemma": "strafe"
+    },
+    "SENSE|m_en_gbus0111690.031 <-- TEXT|m_en_gbus0515500.010_def:53:7 <-- SENSE|m_en_gbus0515500.010": {
+        "cardword": "BOMB",
+        "clue": "INTERDICTION",
+        "label": 2,
+        "source_lemma": "bomb",
+        "target_lemma": "interdiction"
+    },
+    "SENSE|m_en_gbus0111690.031 <-- TEXT|m_en_gbus0934290.019_def:37:4 <-- SENSE|m_en_gbus0934290.019": {
+        "cardword": "BOMB",
+        "clue": "SHELL",
+        "label": 2,
+        "source_lemma": "bomb",
+        "target_lemma": "shell"
+    },
+    "SENSE|m_en_gbus0114300.026 <-- SYNONYM|m_en_gbus0547470.008:m_en_gbus0114300.026 <-- SENSE|m_en_gbus0547470.008": {
+        "cardword": "BOOT",
+        "clue": "KICK",
+        "label": 2,
+        "source_lemma": "boot",
+        "target_lemma": "kick"
+    },
+    "SENSE|m_en_gbus0116790.024 <-- TEXT|m_en_gb_oed129253.005_def:38:6 <-- SENSE|m_en_gb_oed129253.005": {
+        "cardword": "BOTTLE",
+        "clue": "NURSER",
+        "label": 2,
+        "source_lemma": "bottle",
+        "target_lemma": "nurser"
+    },
+    "SENSE|m_en_gbus0130260.025 <-- SYNONYM|m_en_gbus1020170.010:m_en_gbus0130260.025 <-- SENSE|m_en_gbus1020170.010": {
+        "cardword": "BRUSH",
+        "clue": "SWEEP",
+        "label": 2,
+        "source_lemma": "brush",
+        "target_lemma": "sweep"
+    },
+    "SENSE|m_en_gbus0132690.036 <-- SYNONYM|m_en_gbus1030510.015:m_en_gbus0132690.036 <-- SENSE|m_en_gbus1030510.015": {
+        "cardword": "BUG",
+        "clue": "TAP",
+        "label": 2,
+        "source_lemma": "bug",
+        "target_lemma": "tap"
+    },
+    "SENSE|m_en_gbus0151220.009 <-- TEXT|m_en_gbus0828750.006_def:11:3 <-- SENSE|m_en_gbus0828750.006": {
+        "cardword": "CAR",
+        "clue": "PULLMAN",
+        "label": 2,
+        "source_lemma": "car",
+        "target_lemma": "Pullman"
+    },
+    "SENSE|m_en_gbus0168600.136 <-- TEXT|m_en_gbus0007630.009_def:63:7 <-- SENSE|m_en_gbus0007630.009": {
+        "cardword": "CHANGE",
+        "clue": "ACTAEON",
+        "label": 1,
+        "source_lemma": "change",
+        "target_lemma": "Actaeon"
+    },
+    "SENSE|m_en_gbus0169930.047 <-- TEXT|m_en_gb_oed134314.002_def:89:6 <-- SENSE|m_en_gb_oed134314.002": {
+        "cardword": "CHARGE",
+        "clue": "OVERBLOW",
+        "label": 2,
+        "source_lemma": "charge",
+        "target_lemma": "overblow"
+    },
+    "SENSE|m_en_gbus0176990.003 <-- TEXT|m_en_gbus0440530.009_def:13:9 <-- SENSE|m_en_gbus0440530.009": {
+        "cardword": "CHINA",
+        "clue": "GUNPOWDER",
+        "label": 2,
+        "source_lemma": "China tea",
+        "target_lemma": "gunpowder"
+    },
+    "SENSE|m_en_gbus0179100.011 <-- TEXT|m_en_gbus0195970.005_def:2:9 <-- SENSE|m_en_gbus0195970.005": {
+        "cardword": "CHOCOLATE",
+        "clue": "COCOA",
+        "label": 2,
+        "source_lemma": "chocolate",
+        "target_lemma": "cocoa"
+    },
+    "SENSE|m_en_gbus0184670.012 <-- TEXT|m_en_gbus0341290.014_def:65:6 <-- SENSE|m_en_gbus0341290.014": {
+        "cardword": "CIRCLE",
+        "clue": "EXIT",
+        "label": 1,
+        "source_lemma": "circle",
+        "target_lemma": "exit"
+    },
+    "SENSE|m_en_gbus0186140.004 <-- TEXT|m_en_gbus0984200.003_def:25:14 <-- SENSE|m_en_gbus0984200.003": {
+        "cardword": "LONDON",
+        "clue": "SQUARE",
+        "label": 2,
+        "source_lemma": "City of London",
+        "target_lemma": "Square Mile"
+    },
+    "SENSE|m_en_gbus0187480.004 <-- TEXT|m_en_gbus0649930.004_def:45:16 <-- SENSE|m_en_gbus0649930.004": {
+        "cardword": "FORK",
+        "clue": "MISSOULA",
+        "label": 2,
+        "source_lemma": "Clark Fork River",
+        "target_lemma": "Missoula"
+    },
+    "SENSE|m_en_gbus0196310.034 <-- TEXT|m_en_gb_oed246847.005_def:67:5 <-- SENSE|m_en_gb_oed246847.005": {
+        "cardword": "CODE",
+        "clue": "OVEREXPRESSION",
+        "label": 1,
+        "source_lemma": "code",
+        "target_lemma": "overexpression"
+    },
+    "SENSE|m_en_gbus0208170.015 <-- SYNONYM|m_en_gbus0212260.005:m_en_gbus0208170.015 <-- SENSE|m_en_gbus0212260.005": {
+        "cardword": "CONCERT",
+        "clue": "CONSENSUS",
+        "label": 2,
+        "source_lemma": "concert",
+        "target_lemma": "consensus"
+    },
+    "SENSE|m_en_gbus0217260.003 <-- TEXT|m_en_gb_oed85828892.005_def:50:12 <-- SENSE|m_en_gb_oed85828892.005": {
+        "cardword": "COOK",
+        "clue": "MAORI",
+        "label": 2,
+        "source_lemma": "Cook Islands",
+        "target_lemma": "Cook Islands Maori"
+    },
+    "SENSE|m_en_gbus0224510.008 <-- TEXT|m_en_gbus0369050.006_def:55:6 <-- SENSE|m_en_gbus0369050.006": {
+        "cardword": "COTTON",
+        "clue": "FLANNEL",
+        "label": 2,
+        "source_lemma": "cotton",
+        "target_lemma": "flannel"
+    },
+    "SENSE|m_en_gbus0230230.018 <-- TEXT|m_en_gb_oed158716.014_def:48:5 <-- SENSE|m_en_gb_oed158716.014": {
+        "cardword": "CRANE",
+        "clue": "RAX",
+        "label": 2,
+        "source_lemma": "crane",
+        "target_lemma": "rax"
+    },
+    "SENSE|m_en_gbus0256800.013 <-- TEXT|m_en_gbus0591270.010_def:80:5 <-- SENSE|m_en_gbus0591270.010": {
+        "cardword": "DECK",
+        "clue": "LOGE",
+        "label": 2,
+        "source_lemma": "deck",
+        "target_lemma": "loge"
+    },
+    "SENSE|m_en_gbus0289540.006 <-- TEXT|m_en_gbus0531220.007_text_5:118:16 <-- SENSE|m_en_gbus0531220.007": {
+        "cardword": "ROCK",
+        "clue": "JERUSALEM",
+        "label": 2,
+        "source_lemma": "Dome of the Rock",
+        "target_lemma": "Jerusalem"
+    },
+    "SENSE|m_en_gbus0295890.067 <-- TEXT|2019_NFL_Draft_text_0:0:9 <-- SENSE|2019_NFL_Draft": {
+        "cardword": "DRAFT",
+        "clue": "NFL",
+        "label": 3,
+        "source_lemma": "draft",
+        "target_lemma": "2019 NFL Draft"
+    },
+    "SENSE|m_en_gbus0299010.055 <-- TEXT|m_en_gbus0531670.008_def:9:4 <-- SENSE|m_en_gbus0531670.008": {
+        "cardword": "DROP",
+        "clue": "JETTISON",
+        "label": 2,
+        "source_lemma": "drop",
+        "target_lemma": "jettison"
+    },
+    "SENSE|m_en_gbus0301730.006 <-- SYNONYM|m_en_gbus0236580.005:m_en_gbus0301730.006 <-- SENSE|m_en_gbus0236580.005": {
+        "cardword": "DUCK",
+        "clue": "CROUCH",
+        "label": 2,
+        "source_lemma": "duck",
+        "target_lemma": "crouch"
+    },
+    "SENSE|m_en_gbus0305820.010 <-- TEXT|m_en_gbus0690300.008_def:59:6 <-- SENSE|m_en_gbus0690300.008": {
+        "cardword": "DWARF",
+        "clue": "NIBELUNG",
+        "label": 2,
+        "source_lemma": "dwarf",
+        "target_lemma": "Nibelung"
+    },
+    "SENSE|m_en_gbus0305820.024 <-- TEXT|m_en_gbus0113020.024_def:44:7 <-- SENSE|m_en_gbus0113020.024": {
+        "cardword": "DWARF",
+        "clue": "BONSAI",
+        "label": 2,
+        "source_lemma": "dwarf",
+        "target_lemma": "bonsai"
+    },
+    "SENSE|m_en_gbus0307070.006 <-- TEXT|m_en_gbus0820330.007_text_1:51:5 <-- SENSE|m_en_gbus0820330.007": {
+        "cardword": "EAGLE",
+        "clue": "PROMETHEUS",
+        "label": 2,
+        "source_lemma": "eagle",
+        "target_lemma": "Prometheus"
+    },
+    "SENSE|m_en_gbus0346070.110 <-- TEXT|m_en_gbus0272230.005_def:2:4 <-- SENSE|m_en_gbus0272230.005": {
+        "cardword": "FACE",
+        "clue": "DIAL",
+        "label": 2,
+        "source_lemma": "face",
+        "target_lemma": "dial"
+    },
+    "SENSE|m_en_gbus0349960.021 <-- SYNONYM|m_en_gbus1124040.007:m_en_gbus0349960.021 <-- SENSE|m_en_gbus1124040.007": {
+        "cardword": "FAN",
+        "clue": "VENTILATE",
+        "label": 2,
+        "source_lemma": "fan",
+        "target_lemma": "ventilate"
+    },
+    "SENSE|m_en_gbus0360650.011 <-- TEXT|Lockheed_Martin_F-22_Raptor_text_0:117:7 <-- SENSE|Lockheed_Martin_F-22_Raptor": {
+        "cardword": "FIGHTER",
+        "clue": "MARTIN",
+        "label": 2,
+        "source_lemma": "fighter",
+        "target_lemma": "Lockheed Martin F-22 Raptor"
+    },
+    "SENSE|m_en_gbus0361120.005 <-- TEXT|m_en_gbus0398140.015_def:21:4 <-- SENSE|m_en_gbus0398140.015": {
+        "cardword": "FILE",
+        "clue": "G",
+        "label": 2,
+        "source_lemma": "file",
+        "target_lemma": "G"
+    },
+    "SENSE|m_en_gbus0374990.027 <-- TEXT|m_en_gbus0873440.006_def:34:6 <-- SENSE|m_en_gbus0873440.006": {
+        "cardword": "FLUTE",
+        "clue": "RIGATONI",
+        "label": 2,
+        "source_lemma": "flute",
+        "target_lemma": "rigatoni"
+    },
+    "SENSE|m_en_gbus0379770.003 <-- CLASS|m_en_gbus0282780.020:m_en_gbus0379770.003 <-- SENSE|m_en_gbus0282780.020": {
+        "cardword": "FORCE",
+        "clue": "DISPLACEMENT",
+        "label": 2,
+        "source_lemma": "force",
+        "target_lemma": "displacement"
+    },
+    "SENSE|m_en_gbus0381160.015 <-- TEXT|m_en_gbus0176790.008_def:98:7 <-- SENSE|m_en_gbus0176790.008": {
+        "cardword": "FOREST",
+        "clue": "CHIMPANZEE",
+        "label": 2,
+        "source_lemma": "forest",
+        "target_lemma": "chimpanzee"
+    },
+    "SENSE|m_en_gbus0388790.002 <-- TEXT|m_en_gbus1164460.006_text_0:51:13 <-- SENSE|m_en_gbus1164460.006": {
+        "cardword": "CANADA",
+        "clue": "WOLFE",
+        "label": 2,
+        "source_lemma": "French Canada",
+        "target_lemma": "James Wolfe"
+    },
+    "SENSE|m_en_gbus0400970.038 <-- TEXT|Final_Fantasy_text_1:10:4 <-- SENSE|Final_Fantasy": {
+        "cardword": "GAME",
+        "clue": "FINAL",
+        "label": 2,
+        "source_lemma": "game",
+        "target_lemma": "Final Fantasy"
+    },
+    "SENSE|m_en_gbus0409150.010 <-- SYNONYM|m_en_gbus0049770.018:m_en_gbus0409150.010 <-- SENSE|m_en_gbus0049770.018": {
+        "cardword": "GENIUS",
+        "clue": "ARTIST",
+        "label": 2,
+        "source_lemma": "genius",
+        "target_lemma": "artist"
+    },
+    "SENSE|m_en_gbus0412510.014 <-- TEXT|m_en_gbus0045530.005_text_0:16:5 <-- SENSE|m_en_gbus0045530.005": {
+        "cardword": "GIANT",
+        "clue": "ARCTURUS",
+        "label": 2,
+        "source_lemma": "giant",
+        "target_lemma": "Arcturus"
+    },
+    "SENSE|m_en_gbus0412510.014 <-- TEXT|m_en_gbus0149750.006_text_0:15:5 <-- SENSE|m_en_gbus0149750.006": {
+        "cardword": "GIANT",
+        "clue": "CAPELLA",
+        "label": 3,
+        "source_lemma": "giant",
+        "target_lemma": "Capella"
+    },
+    "SENSE|m_en_gbus0431180.002 <-- TEXT|m_en_gbus0833900.008_text_0:24:19 <-- SENSE|m_en_gbus0833900.008": {
+        "cardword": "CHINA",
+        "clue": "CH'IN",
+        "label": 2,
+        "source_lemma": "Great Wall of China",
+        "target_lemma": "Qin"
+    },
+    "SENSE|m_en_gbus0431330.005 <-- TEXT|m_en_gbus0559390.006_def:57:6 <-- SENSE|m_en_gbus0559390.006": {
+        "cardword": "GREECE",
+        "clue": "LACEDAEMONIAN",
+        "label": 2,
+        "source_lemma": "Greece",
+        "target_lemma": "Lacedaemonian"
+    },
+    "SENSE|m_en_gbus0431330.005 <-- TEXT|m_en_gbus1042230.014_def:12:6 <-- SENSE|m_en_gbus1042230.014": {
+        "cardword": "GREECE",
+        "clue": "TESSERA",
+        "label": 2,
+        "source_lemma": "Greece",
+        "target_lemma": "tessera"
+    },
+    "SENSE|m_en_gbus0454550.012 <-- TEXT|m_en_gbus0638020.017_def:19:4 <-- SENSE|m_en_gbus0638020.017": {
+        "cardword": "HAWK",
+        "clue": "MEW",
+        "label": 2,
+        "source_lemma": "hawk",
+        "target_lemma": "mew"
+    },
+    "SENSE|m_en_gbus0455700.037 <-- TEXT|m_en_gbus0143120.006_def:50:4 <-- SENSE|m_en_gbus0143120.006": {
+        "cardword": "HEAD",
+        "clue": "CAIRO",
+        "label": 0,
+        "source_lemma": "head",
+        "target_lemma": "Cairo"
+    },
+    "SENSE|m_en_gbus0479120.003 <-- TEXT|Indian_Navy_text_2:80:14 <-- SENSE|Indian_Navy": {
+        "cardword": "HORN",
+        "clue": "INDIAN",
+        "label": 2,
+        "source_lemma": "Horn of Africa",
+        "target_lemma": "Indian Navy"
+    },
+    "SENSE|m_en_gbus0480410.006 <-- TEXT|m_en_gbus0923370.006_def:6:8 <-- SENSE|m_en_gbus0923370.006": {
+        "cardword": "HOSPITAL",
+        "clue": "SEMIPRIVATE",
+        "label": 2,
+        "source_lemma": "hospital",
+        "target_lemma": "semiprivate"
+    },
+    "SENSE|m_en_gbus0480960.006 <-- TEXT|m_en_gbus0645940.007_def:20:5 <-- SENSE|m_en_gbus0645940.007": {
+        "cardword": "HOTEL",
+        "clue": "MINIBAR",
+        "label": 2,
+        "source_lemma": "hotel",
+        "target_lemma": "minibar"
+    },
+    "SENSE|m_en_gbus0526360.006 <-- TEXT|m_en_gbus0531990.005_text_1:13:11 <-- SENSE|m_en_gbus0531990.005": {
+        "cardword": "IVORY",
+        "clue": "PRAWER",
+        "label": 2,
+        "source_lemma": "James Ivory",
+        "target_lemma": "Ruth Prawer Jhabvala"
+    },
+    "SENSE|m_en_gbus0531470.027 <-- SYNONYM|m_en_gbus0375190.025:m_en_gbus0531470.027 <-- SENSE|m_en_gbus0375190.025": {
+        "cardword": "JET",
+        "clue": "FLY",
+        "label": 2,
+        "source_lemma": "jet",
+        "target_lemma": "fly"
+    },
+    "SENSE|m_en_gbus0537450.004 <-- TEXT|m_en_gbus1074770.007_def:18:11 <-- SENSE|m_en_gbus1074770.007": {
+        "cardword": "ALPS",
+        "clue": "TRIGLAV",
+        "label": 2,
+        "source_lemma": "Julian Alps",
+        "target_lemma": "Triglav"
+    },
+    "SENSE|m_en_gbus0545730.004 <-- TEXT|m_en_gbus1049360.005_def:62:7 <-- SENSE|m_en_gbus1049360.005": {
+        "cardword": "KETCHUP",
+        "clue": "DRESSING",
+        "label": 2,
+        "source_lemma": "ketchup",
+        "target_lemma": "Thousand Island dressing"
+    },
+    "SENSE|m_en_gbus0546020.020 <-- TEXT|m_en_gbus0609500.029_def:8:3 <-- SENSE|m_en_gbus0609500.029": {
+        "cardword": "KEY",
+        "clue": "MAJOR",
+        "label": 2,
+        "source_lemma": "key",
+        "target_lemma": "major"
+    },
+    "SENSE|m_en_gbus0546020.027 <-- TEXT|m_en_gbus0398140.019_def:2:3 <-- SENSE|m_en_gbus0398140.019": {
+        "cardword": "KEY",
+        "clue": "G",
+        "label": 2,
+        "source_lemma": "key",
+        "target_lemma": "G"
+    },
+    "SENSE|m_en_gbus0547730.006 <-- TEXT|The_Goonies_text_0:13:4 <-- SENSE|The_Goonies": {
+        "cardword": "KID",
+        "clue": "GOONIES",
+        "label": 2,
+        "source_lemma": "kid",
+        "target_lemma": "The Goonies"
+    },
+    "SENSE|m_en_gbus0553240.021 <-- TEXT|m_en_gbus0339550.036_def:168:6 <-- SENSE|m_en_gbus0339550.036": {
+        "cardword": "KNIGHT",
+        "clue": "EXCHANGE",
+        "label": 1,
+        "source_lemma": "knight",
+        "target_lemma": "exchange"
+    },
+    "SENSE|m_en_gbus0565220.008 <-- SYNONYM|m_en_gbus0957230.005:m_en_gbus0565220.008 <-- SENSE|m_en_gbus0957230.005": {
+        "cardword": "LAP",
+        "clue": "SLURP",
+        "label": 2,
+        "source_lemma": "lap",
+        "target_lemma": "slurp"
+    },
+    "SENSE|m_en_gbus0565220.008 <-- SYNONYM|m_en_gbus1013690.009:m_en_gbus0565220.008 <-- SENSE|m_en_gbus1013690.009": {
+        "cardword": "LAP",
+        "clue": "SUP",
+        "label": 2,
+        "source_lemma": "lap",
+        "target_lemma": "sup"
+    },
+    "SENSE|m_en_gbus0584680.011 <-- TEXT|m_en_gbus0332480.003_text_0:13:5 <-- SENSE|m_en_gbus0332480.003": {
+        "cardword": "LINK",
+        "clue": "ESBJERG",
+        "label": 1,
+        "source_lemma": "link",
+        "target_lemma": "Esbjerg"
+    },
+    "SENSE|m_en_gbus0584680.026 <-- TEXT|JSON-LD_def:21:6 <-- SENSE|JSON-LD": {
+        "cardword": "LINK",
+        "clue": "LD",
+        "label": 2,
+        "source_lemma": "link",
+        "target_lemma": "JSON-LD"
+    },
+    "SENSE|m_en_gbus0587270.008 <-- TEXT|m_en_gbus1164970.003_def:87:6 <-- SENSE|m_en_gbus1164970.003": {
+        "cardword": "LITTER",
+        "clue": "WOMBLE",
+        "label": 2,
+        "source_lemma": "litter",
+        "target_lemma": "Womble"
+    },
+    "SENSE|m_en_gbus0587270.037 <-- TEXT|m_en_gbus1020170.010_def:41:6 <-- SENSE|m_en_gbus1020170.010": {
+        "cardword": "LITTER",
+        "clue": "SWEEP",
+        "label": 2,
+        "source_lemma": "litter",
+        "target_lemma": "sweep"
+    },
+    "SENSE|m_en_gbus0591130.033 <-- TEXT|m_en_gbus1052530.011_def:38:6 <-- SENSE|m_en_gbus1052530.011": {
+        "cardword": "LOG",
+        "clue": "TICKET",
+        "label": 2,
+        "source_lemma": "log",
+        "target_lemma": "ticket"
+    },
+    "SENSE|m_en_gbus0623280.010 <-- SYNONYM|m_en_gbus0330720.020:m_en_gbus0623280.010 <-- SENSE|m_en_gbus0330720.020": {
+        "cardword": "MATCH",
+        "clue": "EQUIVALENT",
+        "label": 2,
+        "source_lemma": "match",
+        "target_lemma": "equivalent"
+    },
+    "SENSE|m_en_gbus0640600.006 <-- TEXT|m_en_gbus0701910.010_def:14:10 <-- SENSE|m_en_gbus0701910.010": {
+        "cardword": "MICROSCOPE",
+        "clue": "NOSEPIECE",
+        "label": 2,
+        "source_lemma": "microscope",
+        "target_lemma": "nosepiece"
+    },
+    "SENSE|m_en_gbus0645480.016 <-- DOMAIN|m_en_gbus0385380.006:m_en_gbus0645480.016 <-- SENSE|m_en_gbus0385380.006": {
+        "cardword": "MINE",
+        "clue": "FRACK",
+        "label": 2,
+        "source_lemma": "mine",
+        "target_lemma": "frack"
+    },
+    "SENSE|m_en_gbus0659300.006 <-- TEXT|m_en_gbus1101910.004_def:81:14 <-- SENSE|m_en_gbus1101910.004": {
+        "cardword": "MOON",
+        "clue": "UNIFICATION",
+        "label": 2,
+        "source_lemma": "Sun Myung Moon",
+        "target_lemma": "Unification Church"
+    },
+    "SENSE|m_en_gbus0662000.012 <-- TEXT|m_en_gbus0130650.008_def:52:6 <-- SENSE|m_en_gbus0130650.008": {
+        "cardword": "MOSCOW",
+        "clue": "BRYANSK",
+        "label": 2,
+        "source_lemma": "Moscow",
+        "target_lemma": "Bryansk"
+    },
+    "SENSE|m_en_gbus0664240.013 <-- TEXT|m_en_gbus0759860.006_def:61:7 <-- SENSE|m_en_gbus0759860.006": {
+        "cardword": "MOUNT",
+        "clue": "PEDESTAL",
+        "label": 2,
+        "source_lemma": "mount",
+        "target_lemma": "pedestal"
+    },
+    "SENSE|m_en_gbus0664240.020 <-- SYNONYM|m_en_gbus0812310.024:m_en_gbus0664240.020 <-- SENSE|m_en_gbus0812310.024": {
+        "cardword": "MOUNT",
+        "clue": "PRESENT",
+        "label": 2,
+        "source_lemma": "mount",
+        "target_lemma": "present"
+    },
+    "SENSE|m_en_gbus0665100.023 <-- TEXT|m_en_gbus0948630.006_def:68:5 <-- SENSE|m_en_gbus0948630.006": {
+        "cardword": "MOUTH",
+        "clue": "SINUIJU",
+        "label": 0,
+        "source_lemma": "mouth",
+        "target_lemma": "Sinuiju"
+    },
+    "SENSE|m_en_gbus0667650.006 <-- TEXT|m_en_gbus1058310.006_def:14:3 <-- SENSE|m_en_gbus1058310.006": {
+        "cardword": "MUG",
+        "clue": "TOBY",
+        "label": 2,
+        "source_lemma": "mug",
+        "target_lemma": "Toby jug"
+    },
+    "SENSE|m_en_gbus0683170.016 <-- SYNONYM|m_en_gbus0448120.021:m_en_gbus0683170.016 <-- SENSE|m_en_gbus0448120.021": {
+        "cardword": "NEEDLE",
+        "clue": "HAND",
+        "label": 2,
+        "source_lemma": "needle",
+        "target_lemma": "hand"
+    },
+    "SENSE|m_en_gbus0689610.008 <-- TEXT|m_en_gbus0527450.002_def:59:13 <-- SENSE|m_en_gbus0527450.002": {
+        "cardword": "NEW YORK",
+        "clue": "JACKSON",
+        "label": 2,
+        "source_lemma": "New York",
+        "target_lemma": "Jackson Heights"
+    },
+    "SENSE|m_en_gbus0692620.006 <-- TEXT|Naruto_text_0:46:5 <-- SENSE|Naruto": {
+        "cardword": "NINJA",
+        "clue": "NARUTO",
+        "label": 2,
+        "source_lemma": "ninja",
+        "target_lemma": "Naruto"
+    },
+    "SENSE|m_en_gbus0702390.025 <-- SYNONYM|m_en_gbus1055600.011:m_en_gbus0702390.025 <-- SENSE|m_en_gbus1055600.011": {
+        "cardword": "NOTE",
+        "clue": "TINCTURE",
+        "label": 2,
+        "source_lemma": "note",
+        "target_lemma": "tincture"
+    },
+    "SENSE|m_en_gbus0706490.040 <-- TEXT|m_en_gbus0428140.006_def:103:4 <-- SENSE|m_en_gbus0428140.006": {
+        "cardword": "NUT",
+        "clue": "GRANOLA",
+        "label": 2,
+        "source_lemma": "nut",
+        "target_lemma": "granola"
+    },
+    "SENSE|m_en_gbus0711360.006 <-- TEXT|m_en_gbus0711340.007_def:47:7 <-- SENSE|m_en_gbus0711340.007": {
+        "cardword": "OCTOPUS",
+        "clue": "OCTOPOD",
+        "label": 2,
+        "source_lemma": "octopus",
+        "target_lemma": "octopod"
+    },
+    "SENSE|m_en_gbus0711360.006 <-- TEXT|m_en_gbus1027810.003_def:64:7 <-- SENSE|m_en_gbus1027810.003": {
+        "cardword": "OCTOPUS",
+        "clue": "TAKOYAKI",
+        "label": 2,
+        "source_lemma": "octopus",
+        "target_lemma": "takoyaki"
+    },
+    "SENSE|m_en_gbus0714660.009 <-- TEXT|m_en_gbus0237690.006_def:36:3 <-- SENSE|m_en_gbus0237690.006": {
+        "cardword": "OIL",
+        "clue": "CRUET",
+        "label": 2,
+        "source_lemma": "oil",
+        "target_lemma": "cruet"
+    },
+    "SENSE|m_en_gbus0717430.027 <-- TEXT|m_en_gb_oed131096.004_def:187:11 <-- SENSE|m_en_gb_oed131096.004": {
+        "cardword": "OLIVE",
+        "clue": "OLIVA",
+        "label": 2,
+        "source_lemma": "olive",
+        "target_lemma": "oliva"
+    },
+    "SENSE|m_en_gbus0724570.003 <-- TEXT|m_en_gbus0676760.006_text_0:56:12 <-- SENSE|m_en_gbus0676760.006": {
+        "cardword": "ORANGE",
+        "clue": "NAMAQUALAND",
+        "label": 2,
+        "source_lemma": "Orange River",
+        "target_lemma": "Namaqualand"
+    },
+    "SENSE|m_en_gbus0725280.002 <-- TEXT|Hugo_Weaving_text_1:150:18 <-- SENSE|Hugo_Weaving": {
+        "cardword": "AUSTRALIA",
+        "clue": "WEAVING",
+        "label": 2,
+        "source_lemma": "Order of Australia",
+        "target_lemma": "Hugo Weaving"
+    },
+    "SENSE|m_en_gbus0725960.006 <-- CLASS|m_en_gbus0948680.011:m_en_gbus0725960.006 <-- SENSE|m_en_gbus0948680.011": {
+        "cardword": "ORGAN",
+        "clue": "SINUSOID",
+        "label": 2,
+        "source_lemma": "organ",
+        "target_lemma": "sinusoid"
+    },
+    "SENSE|m_en_gbus0725960.006 <-- TEXT|m_en_gbus0547920.015_def:18:6 <-- SENSE|m_en_gbus0547920.015": {
+        "cardword": "ORGAN",
+        "clue": "KIDNEY",
+        "label": 2,
+        "source_lemma": "organ",
+        "target_lemma": "kidney"
+    },
+    "SENSE|m_en_gbus0745960.014 <-- TEXT|m_en_gbus0412460.006_text_0:41:5 <-- SENSE|m_en_gbus0412460.006": {
+        "cardword": "PANTS",
+        "clue": "GI",
+        "label": 2,
+        "source_lemma": "pants",
+        "target_lemma": "gi"
+    },
+    "SENSE|m_en_gbus0750530.004 <-- TEXT|m_en_gbus0750520.019_text_1:46:9 <-- SENSE|m_en_gbus0750520.019": {
+        "cardword": "HAM",
+        "clue": "PARMA",
+        "label": 2,
+        "source_lemma": "Parma ham",
+        "target_lemma": "Parma"
+    },
+    "SENSE|m_en_gbus0753550.020 <-- TEXT|m_en_gbus0190620.008_def:78:7 <-- SENSE|m_en_gbus0190620.008": {
+        "cardword": "PASTE",
+        "clue": "CLIPBOARD",
+        "label": 2,
+        "source_lemma": "paste",
+        "target_lemma": "clipboard"
+    },
+    "SENSE|m_en_gbus0762390.005 <-- TEXT|m_en_gbus0009660.004_def:25:7 <-- SENSE|m_en_gbus0009660.004": {
+        "cardword": "PENGUIN",
+        "clue": "ADÉLIE",
+        "label": 2,
+        "source_lemma": "penguin",
+        "target_lemma": "Adélie penguin"
+    },
+    "SENSE|m_en_gbus0781310.014 <-- TEXT|Leonard_Nimoy_def:125:5 <-- SENSE|Leonard_Nimoy": {
+        "cardword": "PILOT",
+        "clue": "LEONARD",
+        "label": 0,
+        "source_lemma": "pilot",
+        "target_lemma": "Leonard Nimoy"
+    },
+    "SENSE|m_en_gbus0783370.014 <-- TEXT|m_en_gbus0118630.012_def:2:4 <-- SENSE|m_en_gbus0118630.012": {
+        "cardword": "PIPE",
+        "clue": "BOWL",
+        "label": 2,
+        "source_lemma": "pipe",
+        "target_lemma": "bowl"
+    },
+    "SENSE|m_en_gbus0786970.015 <-- SYNONYM|m_en_gbus0478730.006:m_en_gbus0786970.015 <-- SENSE|m_en_gbus0478730.006": {
+        "cardword": "PLANE",
+        "clue": "HORIZONTAL",
+        "label": 2,
+        "source_lemma": "plane",
+        "target_lemma": "horizontal"
+    },
+    "SENSE|m_en_gbus0787980.015 <-- SYNONYM|m_en_gbus0348940.019:m_en_gbus0787980.015 <-- SENSE|m_en_gbus0348940.019": {
+        "cardword": "PLASTIC",
+        "clue": "FALSE",
+        "label": 2,
+        "source_lemma": "plastic",
+        "target_lemma": "false"
+    },
+    "SENSE|m_en_gbus0788750.007 <-- TEXT|m_en_gbus0657550.007_text_0:76:8 <-- SENSE|m_en_gbus0657550.007": {
+        "cardword": "PLATYPUS",
+        "clue": "MONOTREME",
+        "label": 2,
+        "source_lemma": "platypus",
+        "target_lemma": "monotreme"
+    },
+    "SENSE|m_en_gbus0788840.021 <-- TEXT|Ronaldinho_text_1:351:7 <-- SENSE|Ronaldinho": {
+        "cardword": "PLAY",
+        "clue": "RONALDINHO",
+        "label": 1,
+        "source_lemma": "play",
+        "target_lemma": "Ronaldinho"
+    },
+    "SENSE|m_en_gbus0794810.018 <-- TEXT|m_en_gbus1102990.016_def:31:4 <-- SENSE|m_en_gbus1102990.016": {
+        "cardword": "POLE",
+        "clue": "UNIPOLAR",
+        "label": 2,
+        "source_lemma": "pole",
+        "target_lemma": "unipolar"
+    },
+    "SENSE|m_en_gbus0799190.008 <-- TEXT|m_en_gbus0644610.006_def:4:4 <-- SENSE|m_en_gbus0644610.006": {
+        "cardword": "POOL",
+        "clue": "MILLPOND",
+        "label": 2,
+        "source_lemma": "pool",
+        "target_lemma": "millpond"
+    },
+    "SENSE|m_en_gbus0805520.025 <-- SYNONYM|m_en_gbus1127410.024:m_en_gbus0805520.025 <-- SENSE|m_en_gbus1127410.024": {
+        "cardword": "POUND",
+        "clue": "VIBRATE",
+        "label": 2,
+        "source_lemma": "pound",
+        "target_lemma": "vibrate"
+    },
+    "SENSE|m_en_gbus0830240.006 <-- TEXT|m_en_gbus1004420.003_def:67:6 <-- SENSE|m_en_gbus1004420.003": {
+        "cardword": "PUPIL",
+        "clue": "TRINIAN'S",
+        "label": 2,
+        "source_lemma": "pupil",
+        "target_lemma": "St Trinian's"
+    },
+    "SENSE|m_en_gbus0830250.006 <-- TEXT|m_en_gbus1194806.004_def:110:5 <-- SENSE|m_en_gbus1194806.004": {
+        "cardword": "PUPIL",
+        "clue": "COUCHING",
+        "label": 2,
+        "source_lemma": "pupil",
+        "target_lemma": "couching"
+    },
+    "SENSE|m_en_gbus0840170.006 <-- SYNONYM|m_en_gbus0694800.009:m_en_gbus0840170.006 <-- SENSE|m_en_gbus0694800.009": {
+        "cardword": "RACKET",
+        "clue": "NOISE",
+        "label": 2,
+        "source_lemma": "racket",
+        "target_lemma": "noise"
+    },
+    "SENSE|m_en_gbus0877780.011 <-- CLASS|m_en_gbus0147010.004:m_en_gbus0877780.011 <-- SENSE|m_en_gbus0147010.004": {
+        "cardword": "ROBOT",
+        "clue": "CANADARM",
+        "label": 2,
+        "source_lemma": "robot",
+        "target_lemma": "Canadarm"
+    },
+    "SENSE|m_en_gbus0885130.019 <-- TEXT|Antilia_(building)_def:40:3 <-- SENSE|Antilia_(building)": {
+        "cardword": "ROW",
+        "clue": "ANTILIA",
+        "label": 0,
+        "source_lemma": "row",
+        "target_lemma": "Antilia"
+    },
+    "SENSE|m_en_gbus0888040.011 <-- TEXT|m_en_gbus0357670.006_def:7:5 <-- SENSE|m_en_gbus0357670.006": {
+        "cardword": "RULER",
+        "clue": "FERULE",
+        "label": 2,
+        "source_lemma": "ruler",
+        "target_lemma": "ferule"
+    },
+    "SENSE|m_en_gbus0908330.003 <-- TEXT|m_en_gbus0004110.015_def:66:10 <-- SENSE|m_en_gbus0004110.015": {
+        "cardword": "SCIENTIST",
+        "clue": "ACADEMY",
+        "label": 2,
+        "source_lemma": "scientist",
+        "target_lemma": "academy"
+    },
+    "SENSE|m_en_gbus0909580.005 <-- TEXT|m_en_gbus0038840.011_def:115:9 <-- SENSE|m_en_gbus0038840.011": {
+        "cardword": "SCORPION",
+        "clue": "ANTIVENOM",
+        "label": 2,
+        "source_lemma": "scorpion",
+        "target_lemma": "antivenin"
+    },
+    "SENSE|m_en_gbus0914010.013 <-- SYNONYM|m_en_gbus0512340.005:m_en_gbus0914010.013 <-- SENSE|m_en_gbus0512340.005": {
+        "cardword": "SEAL",
+        "clue": "INSIGNIA",
+        "label": 2,
+        "source_lemma": "seal",
+        "target_lemma": "insignia"
+    },
+    "SENSE|m_en_gbus0927470.015 <-- TEXT|m_en_gbus0480590.038_def:37:6 <-- SENSE|m_en_gbus0480590.038": {
+        "cardword": "SERVER",
+        "clue": "HOST",
+        "label": 2,
+        "source_lemma": "server",
+        "target_lemma": "host"
+    },
+    "SENSE|m_en_gbus0930820.019 <-- SYNONYM|m_en_gbus1018090.015:m_en_gbus0930820.019 <-- SENSE|m_en_gbus1018090.015": {
+        "cardword": "SHADOW",
+        "clue": "SUSPICION",
+        "label": 2,
+        "source_lemma": "shadow",
+        "target_lemma": "suspicion"
+    },
+    "SENSE|m_en_gbus0932520.006 <-- CLASS|m_en_gbus1050170.011:m_en_gbus0932520.006 <-- SENSE|m_en_gbus1050170.011": {
+        "cardword": "SHARK",
+        "clue": "THRESHER",
+        "label": 2,
+        "source_lemma": "shark",
+        "target_lemma": "thresher"
+    },
+    "SENSE|m_en_gbus0937710.038 <-- TEXT|m_en_gb_oed205266.002_def:109:7 <-- SENSE|m_en_gb_oed205266.002": {
+        "cardword": "SHOE",
+        "clue": "TRAVE",
+        "label": 1,
+        "source_lemma": "shoe",
+        "target_lemma": "trave"
+    },
+    "SENSE|m_en_gbus0938260.009 <-- TEXT|m_en_gbus0038440.034_def:10:4 <-- SENSE|m_en_gbus0038440.034": {
+        "cardword": "SHOP",
+        "clue": "ANTIQUE",
+        "label": 2,
+        "source_lemma": "shop",
+        "target_lemma": "antique"
+    },
+    "SENSE|m_en_gbus0955470.021 <-- SYNONYM|m_en_gbus0512030.006:m_en_gbus0955470.021 <-- SENSE|m_en_gbus0512030.006": {
+        "cardword": "SLIP",
+        "clue": "INSERT",
+        "label": 2,
+        "source_lemma": "slip",
+        "target_lemma": "insert"
+    },
+    "SENSE|m_en_gbus0956960.007 <-- TEXT|m_en_gbus0654320.007_def:57:5 <-- SENSE|m_en_gbus0654320.007": {
+        "cardword": "SLUG",
+        "clue": "MOLLUSK",
+        "label": 2,
+        "source_lemma": "slug",
+        "target_lemma": "mollusk"
+    },
+    "SENSE|m_en_gbus0959970.006 <-- TEXT|George_Jung_def:32:8 <-- SENSE|George_Jung": {
+        "cardword": "SMUGGLER",
+        "clue": "JUNG",
+        "label": 2,
+        "source_lemma": "smuggler",
+        "target_lemma": "George Jung"
+    },
+    "SENSE|m_en_gbus0961800.018 <-- TEXT|m_en_gbus0498700.013_def:145:7 <-- SENSE|m_en_gbus0498700.013": {
+        "cardword": "SNOW",
+        "clue": "IMPERSONAL",
+        "label": 0,
+        "source_lemma": "snow",
+        "target_lemma": "impersonal"
+    },
+    "SENSE|m_en_gbus0976650.017 <-- TEXT|m_en_gbus0211440.009_def:77:5 <-- SENSE|m_en_gbus0211440.009": {
+        "cardword": "SPELL",
+        "clue": "CONJURATION",
+        "label": 2,
+        "source_lemma": "spell",
+        "target_lemma": "conjuration"
+    },
+    "SENSE|m_en_gbus0977770.024 <-- TEXT|m_en_gbus0098970.037_def:41:6 <-- SENSE|m_en_gbus0098970.037": {
+        "cardword": "SPIDER",
+        "clue": "BITE",
+        "label": 2,
+        "source_lemma": "spider",
+        "target_lemma": "bite"
+    },
+    "SENSE|m_en_gbus0978530.007 <-- TEXT|m_en_gbus0344470.005_def:97:5 <-- SENSE|m_en_gbus0344470.005": {
+        "cardword": "SPINE",
+        "clue": "EXTRAPYRAMIDAL",
+        "label": 2,
+        "source_lemma": "spine",
+        "target_lemma": "extrapyramidal"
+    },
+    "SENSE|m_en_gbus0978530.012 <-- SYNONYM|m_en_gbus0382900.005:m_en_gbus0978530.012 <-- SENSE|m_en_gbus0382900.005": {
+        "cardword": "SPINE",
+        "clue": "FORTITUDE",
+        "label": 2,
+        "source_lemma": "spine",
+        "target_lemma": "fortitude"
+    },
+    "SENSE|m_en_gbus0982610.025 <-- TEXT|m_en_gbus0846670.007_def:22:9 <-- SENSE|m_en_gbus0846670.007": {
+        "cardword": "SPRING",
+        "clue": "RATOON",
+        "label": 2,
+        "source_lemma": "spring",
+        "target_lemma": "ratoon"
+    },
+    "SENSE|m_en_gbus0983620.022 <-- TEXT|m_en_gbus0225560.007_def:41:6 <-- SENSE|m_en_gbus0225560.007": {
+        "cardword": "SPY",
+        "clue": "COUNTERESPIONAGE",
+        "label": 2,
+        "source_lemma": "spy",
+        "target_lemma": "counterespionage"
+    },
+    "SENSE|m_en_gbus0989430.047 <-- SYNONYM|m_en_gbus0679360.005:m_en_gbus0989430.047 <-- SENSE|m_en_gbus0679360.005": {
+        "cardword": "STATE",
+        "clue": "NATIONAL",
+        "label": 2,
+        "source_lemma": "state",
+        "target_lemma": "national"
+    },
+    "SENSE|m_en_gbus0994760.018 <-- SYNONYM|m_en_gbus0779710.018:m_en_gbus0994760.018 <-- SENSE|m_en_gbus0779710.018": {
+        "cardword": "STICK",
+        "clue": "PIERCE",
+        "label": 2,
+        "source_lemma": "stick",
+        "target_lemma": "pierce"
+    },
+    "SENSE|m_en_gbus1001510.007 <-- TEXT|m_en_gbus0967700.005_def:24:5 <-- SENSE|m_en_gbus0967700.005": {
+        "cardword": "STRAW",
+        "clue": "SOMBRERO",
+        "label": 2,
+        "source_lemma": "straw",
+        "target_lemma": "sombrero"
+    },
+    "SENSE|m_en_gbus1001510.009 <-- TEXT|m_en_gbus0595920.023_def:32:6 <-- SENSE|m_en_gbus0595920.023": {
+        "cardword": "STRAW",
+        "clue": "LOT",
+        "label": 2,
+        "source_lemma": "straw",
+        "target_lemma": "lot"
+    },
+    "SENSE|m_en_gbus1002820.081 <-- TEXT|Zlatan_Ibrahimović_text_0:42:7 <-- SENSE|Zlatan_Ibrahimović": {
+        "cardword": "STRIKE",
+        "clue": "IBRAHIMOVIĆ",
+        "label": 2,
+        "source_lemma": "strike",
+        "target_lemma": "Zlatan Ibrahimović"
+    },
+    "SENSE|m_en_gbus1003050.020 <-- TEXT|m_en_gbus0273800.010_def:29:7 <-- SENSE|m_en_gbus0273800.010": {
+        "cardword": "STRING",
+        "clue": "DICTIONARY",
+        "label": 2,
+        "source_lemma": "string",
+        "target_lemma": "dictionary"
+    },
+    "SENSE|m_en_gbus1003050.052 <-- TEXT|m_en_gbus0840160.007_def:41:6 <-- SENSE|m_en_gbus0840160.007": {
+        "cardword": "STRING",
+        "clue": "RACQUET",
+        "label": 2,
+        "source_lemma": "string",
+        "target_lemma": "racket"
+    },
+    "SENSE|m_en_gbus1006120.006 <-- TEXT|m_en_gb_oed246426.002_def:155:3 <-- SENSE|m_en_gb_oed246426.002": {
+        "cardword": "SUB",
+        "clue": "OBERLEUTNANT",
+        "label": 3,
+        "source_lemma": "sub",
+        "target_lemma": "Oberleutnant"
+    },
+    "SENSE|m_en_gbus1014650.005 <-- TEXT|Megan_Fox_text_3:117:9 <-- SENSE|Megan_Fox": {
+        "cardword": "SUPERHERO",
+        "clue": "MEGAN",
+        "label": 0,
+        "source_lemma": "superhero",
+        "target_lemma": "Megan Fox"
+    },
+    "SENSE|m_en_gbus1026390.032 <-- SYNONYM|m_en_gbus0618680.053:m_en_gbus1026390.032 <-- SENSE|m_en_gbus0618680.053": {
+        "cardword": "TAG",
+        "clue": "MARK",
+        "label": 2,
+        "source_lemma": "tag",
+        "target_lemma": "mark"
+    },
+    "SENSE|m_en_gbus1030520.023 <-- TEXT|m_en_gbus0754120.014_def:47:4 <-- SENSE|m_en_gbus0754120.014": {
+        "cardword": "TAP",
+        "clue": "PAT",
+        "label": 2,
+        "source_lemma": "tap",
+        "target_lemma": "pat"
+    },
+    "SENSE|m_en_gbus1034550.005 <-- TEXT|m_en_gbus0475370.005_def:71:7 <-- SENSE|m_en_gbus0475370.005": {
+        "cardword": "TEACHER",
+        "clue": "HOMEROOM",
+        "label": 2,
+        "source_lemma": "teacher",
+        "target_lemma": "homeroom"
+    },
+    "SENSE|m_en_gbus1037540.018 <-- SYNONYM|m_en_gbus0001170.005:m_en_gbus1037540.018 <-- SENSE|m_en_gbus0001170.005": {
+        "cardword": "TELESCOPE",
+        "clue": "ABBREVIATE",
+        "label": 2,
+        "source_lemma": "telescope",
+        "target_lemma": "abbreviate"
+    },
+    "SENSE|m_en_gbus1067900.031 <-- SYNONYM|m_en_gbus0216910.005:m_en_gbus1067900.031 <-- SENSE|m_en_gbus0216910.005": {
+        "cardword": "TRAIN",
+        "clue": "CONVOY",
+        "label": 2,
+        "source_lemma": "train",
+        "target_lemma": "convoy"
+    },
+    "SENSE|m_en_gbus1077000.008 <-- TEXT|m_en_gbus1076980.013_def:2:12 <-- SENSE|m_en_gbus1076980.013": {
+        "cardword": "HORSE",
+        "clue": "TROJAN",
+        "label": 2,
+        "source_lemma": "Trojan Horse",
+        "target_lemma": "Trojan"
+    },
+    "SENSE|m_en_gbus1078900.018 <-- TEXT|m_en_gbus0379000.005_def:8:5 <-- SENSE|m_en_gbus0379000.005": {
+        "cardword": "TRUNK",
+        "clue": "FOOTLOCKER",
+        "label": 2,
+        "source_lemma": "trunk",
+        "target_lemma": "footlocker"
+    },
+    "SENSE|m_en_gbus1119660.010 <-- SYNONYM|m_en_gbus1137410.031:m_en_gbus1119660.010 <-- SENSE|m_en_gbus1137410.031": {
+        "cardword": "VAN",
+        "clue": "WAGGON",
+        "label": 2,
+        "source_lemma": "van",
+        "target_lemma": "wagon"
+    },
+    "SENSE|m_en_gbus1126880.011 <-- SYNONYM|m_en_gbus0911080.051:m_en_gbus1126880.011 <-- SENSE|m_en_gbus0911080.051": {
+        "cardword": "VET",
+        "clue": "SCREEN",
+        "label": 2,
+        "source_lemma": "vet",
+        "target_lemma": "screen"
+    },
+    "SENSE|m_en_gbus1145040.043 <-- TEXT|m_en_gbus0233730.019_def:8:4 <-- SENSE|m_en_gbus0233730.019": {
+        "cardword": "WAVE",
+        "clue": "CRIMP",
+        "label": 2,
+        "source_lemma": "wave",
+        "target_lemma": "crimp"
+    },
+    "SENSE|m_en_gbus1146800.011 <-- SYNONYM|m_en_gbus1029750.034:m_en_gbus1146800.011 <-- SENSE|m_en_gbus1029750.034": {
+        "cardword": "WEB",
+        "clue": "TANGLE",
+        "label": 2,
+        "source_lemma": "web",
+        "target_lemma": "tangle"
+    },
+    "SENSE|m_en_gbus1148660.026 <-- SYNONYM|m_en_gbus1016990.014:m_en_gbus1148660.026 <-- SENSE|m_en_gbus1016990.014": {
+        "cardword": "WELL",
+        "clue": "SURGE",
+        "label": 2,
+        "source_lemma": "well",
+        "target_lemma": "surge"
+    },
+    "SENSE|m_en_gbus1150490.003 <-- TEXT|m_en_gbus0525180.007_text_3:110:9 <-- SENSE|m_en_gbus0525180.007": {
+        "cardword": "BANK",
+        "clue": "ISRAEL",
+        "label": 2,
+        "source_lemma": "West Bank",
+        "target_lemma": "Israel"
+    },
+    "SENSE|m_en_gbus1150700.005 <-- TEXT|m_en_gbus0382570.003_def:75:17 <-- SENSE|m_en_gbus0382570.003": {
+        "cardword": "AUSTRALIA",
+        "clue": "JOHN",
+        "label": 2,
+        "source_lemma": "Western Australia",
+        "target_lemma": "John Forrest"
+    },
+    "SENSE|m_en_gbus1160210.017 <-- SYNONYM|m_en_gbus0879830.037:m_en_gbus1160210.017 <-- SENSE|m_en_gbus0879830.037": {
+        "cardword": "WIND",
+        "clue": "ROLL",
+        "label": 2,
+        "source_lemma": "wind",
+        "target_lemma": "roll"
+    },
+    "SENSE|m_en_gbus1168590.007 <-- TEXT|m_en_gbus1065850.005_def:47:4 <-- SENSE|m_en_gbus1065850.005": {
+        "cardword": "WORM",
+        "clue": "TOXOCARA",
+        "label": 2,
+        "source_lemma": "worm",
+        "target_lemma": "toxocara"
+    }
+}
