@@ -2,336 +2,470 @@
     "SENSE|Alien_(film) --> TEXT|Alien_(film)_text_0:170:12 --> SENSE|m_en_gbus1097850.005": {
         "cardword": "ALIEN",
         "clue": "UNDISCOVERED",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Alien",
+        "target_lemma": "undiscovered"
     },
     "SENSE|Bill_Murray --> TEXT|Bill_Murray_text_2:217:3 --> SENSE|m_en_gbus0612600.024": {
         "cardword": "BILL",
         "clue": "MAN",
-        "label": 3
+        "label": 3,
+        "source_lemma": "Bill Murray",
+        "target_lemma": "man"
     },
     "SENSE|Teenage_Mutant_Ninja_Turtles --> TEXT|Teenage_Mutant_Ninja_Turtles_text_0:3:7 --> SENSE|m_en_gbus0377620.021": {
         "cardword": "NINJA",
         "clue": "FOLLOW",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Teenage Mutant Ninja Turtles",
+        "target_lemma": "follow"
     },
     "SENSE|The_Imitation_Game --> TEXT|The_Imitation_Game_def:27:5 --> SENSE|m_en_gbus0296580.006": {
         "cardword": "GAME",
         "clue": "DRAMA",
-        "label": 2
+        "label": 2,
+        "source_lemma": "The Imitation Game",
+        "target_lemma": "drama"
     },
     "SENSE|m_en_gb_oed132924_32992135.002 --> TEXT|m_en_gb_oed132924_32992135.002_def:6:6 --> SENSE|m_en_gbus0724390.010": {
         "cardword": "APPLE",
         "clue": "ORANGE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Osage apple",
+        "target_lemma": "orange"
     },
     "SENSE|m_en_gb_oed156212_27437650.002 --> TEXT|m_en_gb_oed156212_27437650.002_def:4:12 --> SENSE|m_en_gbus0013850.005": {
         "cardword": "QUEEN",
         "clue": "AFFECTIONATE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Queen Mum",
+        "target_lemma": "affectionate"
     },
     "SENSE|m_en_gb_oed158295_26685723.002 --> TEXT|m_en_gb_oed158295_26685723.002_def:127:7 --> SENSE|m_en_gbus0201580.009": {
         "cardword": "RING",
         "clue": "COLUMN",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Raschig ring",
+        "target_lemma": "column"
     },
     "SENSE|m_en_gb_oed166623_25131962.002 --> TEXT|m_en_gb_oed166623_25131962.002_def:10:6 --> SENSE|m_en_gbus0139900.011": {
         "cardword": "ROBIN",
         "clue": "BUY",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Robin Hood bargain",
+        "target_lemma": "buy"
     },
     "SENSE|m_en_gb_oed166623_25131986.002 --> TEXT|m_en_gb_oed166623_25131986.002_def:37:7 --> SENSE|m_en_gbus0946520.005": {
         "cardword": "ROBIN",
         "clue": "SIMILAR",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Robin Hood tale",
+        "target_lemma": "similar"
     },
     "SENSE|m_en_gb_oed31517_1278430980.004 --> TEXT|m_en_gb_oed31517_1278430980.004_def:26:4 --> SENSE|m_en_gbus0936160.017": {
         "cardword": "PIANO",
         "clue": "SHIP",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Chicago piano",
+        "target_lemma": "ship"
     },
     "SENSE|m_en_gb_oed59091_203391496.002 --> TEXT|m_en_gb_oed59091_203391496.002_def:41:6 --> SENSE|m_en_gbus0115050.006": {
         "cardword": "MARCH",
         "clue": "BORDER",
-        "label": 2
+        "label": 2,
+        "source_lemma": "East March",
+        "target_lemma": "border"
     },
     "SENSE|m_en_gb_oed99473_284795853.002 --> TEXT|m_en_gb_oed99473_284795853.002_def:12:7 --> SENSE|m_en_gbus0521630.010": {
         "cardword": "CAR",
         "clue": "IRELAND",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Irish car",
+        "target_lemma": "Ireland"
     },
     "SENSE|m_en_gbus0018440.004 --> TEXT|m_en_gbus0018440.004_def:104:10 --> SENSE|m_en_gbus0609180.019": {
         "cardword": "AIR",
         "clue": "MAINTAIN",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Air Force One",
+        "target_lemma": "maintain"
     },
     "SENSE|m_en_gbus0047070.023 --> TEXT|m_en_gbus0047070.023_def:11:5 --> SENSE|m_en_gbus1086800.007": {
         "cardword": "ARM",
         "clue": "TYPE",
-        "label": 1
+        "label": 1,
+        "source_lemma": "arm",
+        "target_lemma": "type"
     },
     "SENSE|m_en_gbus0064260.015 --> TEXT|m_en_gbus0064260.015_def:58:10 --> SENSE|m_en_gbus0499280.009": {
         "cardword": "BACK",
         "clue": "IMPOSITION",
-        "label": 1
+        "label": 1,
+        "source_lemma": "back",
+        "target_lemma": "imposition"
     },
     "SENSE|m_en_gbus0071460.008 --> TEXT|m_en_gbus0071460.008_def:35:3 --> SENSE|m_en_gbus1116300.036": {
         "cardword": "BANK",
         "clue": "USE",
-        "label": 0
+        "label": 0,
+        "source_lemma": "bank",
+        "target_lemma": "use"
     },
     "SENSE|m_en_gbus0078580.013 --> TEXT|m_en_gbus0078580.013_def:44:9 --> SENSE|m_en_gbus0211620.029": {
         "cardword": "BATTERY",
         "clue": "CONNECT",
-        "label": 2
+        "label": 2,
+        "source_lemma": "battery",
+        "target_lemma": "connect"
     },
     "SENSE|m_en_gbus0125270.029 --> TEXT|m_en_gbus0125270.029_def:29:8 --> SENSE|m_en_gbus0121710.009": {
         "cardword": "BRIDGE",
         "clue": "BRANCH",
-        "label": 2
+        "label": 2,
+        "source_lemma": "bridge",
+        "target_lemma": "branch"
     },
     "SENSE|m_en_gbus0132460.002 --> TEXT|m_en_gbus0132460.002_def:84:8 --> SENSE|m_en_gbus0046960.005": {
         "cardword": "BUFFALO",
         "clue": "ARKANSAS",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Buffalo River",
+        "target_lemma": "Arkansas"
     },
     "SENSE|m_en_gbus0151220.011 --> TEXT|m_en_gbus0151220.011_def:2:7 --> SENSE|m_en_gbus0170110.014": {
         "cardword": "CAR",
         "clue": "CHARIOT",
-        "label": 2
+        "label": 2,
+        "source_lemma": "car",
+        "target_lemma": "chariot"
     },
     "SENSE|m_en_gbus0157500.031 --> TEXT|m_en_gbus0157500.031_def:15:6 --> SENSE|m_en_gbus0708500.007": {
         "cardword": "CAST",
         "clue": "OBJECT",
-        "label": 2
+        "label": 2,
+        "source_lemma": "cast",
+        "target_lemma": "object"
     },
     "SENSE|m_en_gbus0172030.010 --> TEXT|m_en_gbus0172030.010_def:20:5 --> SENSE|m_en_gbus0957610.004": {
         "cardword": "CHECK",
         "clue": "SMALL",
-        "label": 0
+        "label": 0,
+        "source_lemma": "check",
+        "target_lemma": "small"
     },
     "SENSE|m_en_gbus0174190.006 --> TEXT|m_en_gbus0174190.006_def:44:4 --> SENSE|m_en_gbus0109390.006": {
         "cardword": "CHEST",
         "clue": "BODY",
-        "label": 2
+        "label": 2,
+        "source_lemma": "chest",
+        "target_lemma": "body"
     },
     "SENSE|m_en_gbus0215190.012 --> TEXT|m_en_gbus0215190.012_def:9:9 --> SENSE|m_en_gbus0016900.007": {
         "cardword": "CONTRACT",
         "clue": "AGREEMENT",
-        "label": 2
+        "label": 2,
+        "source_lemma": "contract",
+        "target_lemma": "agreement"
     },
     "SENSE|m_en_gbus0224510.006 --> TEXT|m_en_gbus0224510.006_def:86:5 --> SENSE|m_en_gbus0787470.006": {
         "cardword": "COTTON",
         "clue": "PLANT",
-        "label": 2
+        "label": 2,
+        "source_lemma": "cotton",
+        "target_lemma": "plant"
     },
     "SENSE|m_en_gbus0230750.006 --> TEXT|m_en_gbus0230750.006_def:6:7 --> SENSE|m_en_gbus1122780.010": {
         "cardword": "CRASH",
         "clue": "VEHICLE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "crash",
+        "target_lemma": "vehicle"
     },
     "SENSE|m_en_gbus0230750.037 --> TEXT|m_en_gbus0230750.037_def:2:6 --> SENSE|m_en_gbus1009880.005": {
         "cardword": "CRASH",
         "clue": "SUDDEN",
-        "label": 2
+        "label": 2,
+        "source_lemma": "crash",
+        "target_lemma": "sudden"
     },
     "SENSE|m_en_gbus0235300.043 --> TEXT|m_en_gbus0235300.043_def:11:6 --> SENSE|m_en_gbus1047390.018": {
         "cardword": "CROSS",
         "clue": "THING",
-        "label": 0
+        "label": 0,
+        "source_lemma": "cross",
+        "target_lemma": "thing"
     },
     "SENSE|m_en_gbus0236890.018 --> TEXT|m_en_gbus0236890.018_def:45:6 --> SENSE|m_en_gbus0435410.008": {
         "cardword": "CROWN",
         "clue": "GROUND",
-        "label": 2
+        "label": 2,
+        "source_lemma": "crown",
+        "target_lemma": "ground"
     },
     "SENSE|m_en_gbus0245280.031 --> TEXT|m_en_gbus0245280.031_def:39:8 --> SENSE|m_en_gbus0925900.012": {
         "cardword": "CYCLE",
         "clue": "SEQUENCE",
-        "label": 1
+        "label": 1,
+        "source_lemma": "cycle",
+        "target_lemma": "sequence"
     },
     "SENSE|m_en_gbus0272640.004 --> TEXT|m_en_gbus0272640.004_text_0:111:4 --> SENSE|m_en_gbus0302270.009": {
         "cardword": "DIAMOND",
         "clue": "DUET",
-        "label": 1
+        "label": 1,
+        "source_lemma": "Neil Diamond",
+        "target_lemma": "duet"
     },
     "SENSE|m_en_gbus0273320.024 --> TEXT|m_en_gbus0273320.024_def:0:4 --> SENSE|m_en_gbus0788840.013": {
         "cardword": "DICE",
         "clue": "PLAY",
-        "label": 2
+        "label": 2,
+        "source_lemma": "dice",
+        "target_lemma": "play"
     },
     "SENSE|m_en_gbus0324650.011 --> TEXT|m_en_gbus0324650.011_def:2:8 --> SENSE|m_en_gbus0842520.013": {
         "cardword": "ENGINE",
         "clue": "RAILROAD",
-        "label": 2
+        "label": 2,
+        "source_lemma": "engine",
+        "target_lemma": "railroad"
     },
     "SENSE|m_en_gbus0348710.002 --> TEXT|m_en_gbus0348710.002_def:2:8 --> SENSE|m_en_gbus0690770.005": {
         "cardword": "FALL",
         "clue": "NICKNAME",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Fall Classic",
+        "target_lemma": "nickname"
     },
     "SENSE|m_en_gbus0412510.016 --> TEXT|m_en_gbus0412510.016_def:29:8 --> SENSE|m_en_gbus0413540.005": {
         "cardword": "GIANT",
         "clue": "GIGANTIC",
-        "label": 2
+        "label": 2,
+        "source_lemma": "giant",
+        "target_lemma": "gigantic"
     },
     "SENSE|m_en_gbus0421010.018 --> TEXT|m_en_gbus0421010.018_def:32:4 --> SENSE|m_en_gbus0421010.008": {
         "cardword": "GOLD",
         "clue": "AU",
-        "label": 2
+        "label": 2,
+        "source_lemma": "gold",
+        "target_lemma": "gold"
     },
     "SENSE|m_en_gbus0428950.011 --> TEXT|m_en_gbus0428950.011_def:70:5 --> SENSE|m_en_gbus0992710.006": {
         "cardword": "GRASS",
         "clue": "STEM",
-        "label": 2
+        "label": 2,
+        "source_lemma": "grass",
+        "target_lemma": "stem"
     },
     "SENSE|m_en_gbus0431180.002 --> TEXT|m_en_gbus0431180.002_text_1:37:7 --> SENSE|m_en_gbus0306360.005": {
         "cardword": "WALL",
         "clue": "DYNASTY",
-        "label": 1
+        "label": 1,
+        "source_lemma": "Great Wall of China",
+        "target_lemma": "dynasty"
     },
     "SENSE|m_en_gbus0454550.014 --> TEXT|m_en_gbus0454550.014_def:40:7 --> SENSE|m_en_gbus1140940.005": {
         "cardword": "HAWK",
         "clue": "WARLIKE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "hawk",
+        "target_lemma": "warlike"
     },
     "SENSE|m_en_gbus0529240.002 --> TEXT|m_en_gbus0529240.002_def:67:10 --> SENSE|m_en_gbus0310650.008": {
         "cardword": "GRASS",
         "clue": "ECOLOGICAL",
-        "label": 1
+        "label": 1,
+        "source_lemma": "Japanese stilt grass",
+        "target_lemma": "ecological"
     },
     "SENSE|m_en_gbus0531470.009 --> TEXT|m_en_gbus0531470.009_def:62:3 --> SENSE|m_en_gbus0403620.008": {
         "cardword": "JET",
         "clue": "GAS",
-        "label": 2
+        "label": 2,
+        "source_lemma": "jet",
+        "target_lemma": "gas"
     },
     "SENSE|m_en_gbus0531470.012 --> TEXT|m_en_gbus0531470.012_def:3:8 --> SENSE|m_en_gbus0018240.005": {
         "cardword": "JET",
         "clue": "AIRCRAFT",
-        "label": 2
+        "label": 2,
+        "source_lemma": "jet",
+        "target_lemma": "aircraft"
     },
     "SENSE|m_en_gbus0546020.018 --> TEXT|m_en_gbus0546020.018_def:42:6 --> SENSE|m_en_gbus0609800.020": {
         "cardword": "KEY",
         "clue": "MAKE",
-        "label": 0
+        "label": 0,
+        "source_lemma": "key",
+        "target_lemma": "make"
     },
     "SENSE|m_en_gbus0564510.005 --> TEXT|m_en_gbus0564510.005_def:72:9 --> SENSE|m_en_gbus0344680.006": {
         "cardword": "FILM",
         "clue": "EXTREMELY",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Langmuir–Blodgett film",
+        "target_lemma": "extremely"
     },
     "SENSE|m_en_gbus0565210.015 --> TEXT|m_en_gbus0565210.015_def:66:6 --> SENSE|m_en_gbus0377040.008": {
         "cardword": "LAP",
         "clue": "FOLD",
-        "label": 2
+        "label": 2,
+        "source_lemma": "lap",
+        "target_lemma": "fold"
     },
     "SENSE|m_en_gbus0565210.034 --> TEXT|m_en_gbus0565210.034_def:10:6 --> SENSE|m_en_gbus1019710.005": {
         "cardword": "LAP",
         "clue": "SWATHE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "lap",
+        "target_lemma": "swathe"
     },
     "SENSE|m_en_gbus0566390.010 --> TEXT|m_en_gbus0566390.010_def:9:6 --> SENSE|m_en_gbus0861020.006": {
         "cardword": "LASER",
         "clue": "REMOVE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "laser",
+        "target_lemma": "remove"
     },
     "SENSE|m_en_gbus0585180.014 --> TEXT|m_en_gbus0585180.014_def:3:11 --> SENSE|m_en_gbus0508030.005": {
         "cardword": "LION",
         "clue": "INFLUENTIAL",
-        "label": 2
+        "label": 2,
+        "source_lemma": "lion",
+        "target_lemma": "influential"
     },
     "SENSE|m_en_gbus0653970.014 --> TEXT|m_en_gbus0653970.014_def:26:4 --> SENSE|m_en_gbus0592580.028": {
         "cardword": "MOLE",
         "clue": "LONG",
-        "label": 0
+        "label": 0,
+        "source_lemma": "mole",
+        "target_lemma": "long"
     },
     "SENSE|m_en_gbus0662000.015 --> TEXT|m_en_gbus0662000.015_def:30:4 --> SENSE|m_en_gbus0474570.034": {
         "cardword": "MOSCOW",
         "clue": "HOME",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Moscow",
+        "target_lemma": "home"
     },
     "SENSE|m_en_gbus0676210.017 --> TEXT|m_en_gbus0676210.017_def:53:5 --> SENSE|m_en_gbus0329950.006": {
         "cardword": "NAIL",
         "clue": "EQUAL",
-        "label": 0
+        "label": 0,
+        "source_lemma": "nail",
+        "target_lemma": "equal"
     },
     "SENSE|m_en_gbus0676210.038 --> TEXT|m_en_gbus0676210.038_def:16:3 --> SENSE|m_en_gbus0929400.007": {
         "cardword": "NAIL",
         "clue": "SEX",
-        "label": 2
+        "label": 2,
+        "source_lemma": "nail",
+        "target_lemma": "sex"
     },
     "SENSE|m_en_gbus0689630.002 --> TEXT|m_en_gbus0689630.002_def:13:4 --> SENSE|m_en_gbus1054600.022": {
         "cardword": "NEW YORK",
         "clue": "TIME",
-        "label": 2
+        "label": 2,
+        "source_lemma": "New York minute",
+        "target_lemma": "time"
     },
     "SENSE|m_en_gbus0706490.018 --> TEXT|m_en_gbus0706490.018_def:66:9 --> SENSE|m_en_gbus0975510.005": {
         "cardword": "NUT",
         "clue": "SPECIFY",
-        "label": 0
+        "label": 0,
+        "source_lemma": "nut",
+        "target_lemma": "specify"
     },
     "SENSE|m_en_gbus0752670.067 --> TEXT|m_en_gbus0752670.067_def:13:10 --> SENSE|m_en_gbus0206310.005": {
         "cardword": "PASS",
         "clue": "COMPLETION",
-        "label": 2
+        "label": 2,
+        "source_lemma": "pass",
+        "target_lemma": "completion"
     },
     "SENSE|m_en_gbus0799200.012 --> TEXT|m_en_gbus0799200.012_def:4:10 --> SENSE|m_en_gbus0199540.009": {
         "cardword": "POOL",
         "clue": "COLLECTIVE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "pool",
+        "target_lemma": "collective"
     },
     "SENSE|m_en_gbus0805520.027 --> TEXT|m_en_gbus0805520.027_def:37:3 --> SENSE|m_en_gbus1145530.013": {
         "cardword": "POUND",
         "clue": "WAY",
-        "label": 0
+        "label": 0,
+        "source_lemma": "pound",
+        "target_lemma": "way"
     },
     "SENSE|m_en_gbus0956960.018 --> TEXT|m_en_gbus0956960.018_def:10:10 --> SENSE|m_en_gbus0333360.007": {
         "cardword": "SLUG",
         "clue": "ESPECIALLY",
-        "label": 0
+        "label": 0,
+        "source_lemma": "slug",
+        "target_lemma": "especially"
     },
     "SENSE|m_en_gbus0966350.020 --> TEXT|m_en_gbus0966350.020_def:18:6 --> SENSE|m_en_gbus1054450.020": {
         "cardword": "SOLDIER",
         "clue": "TIMBER",
-        "label": 2
+        "label": 2,
+        "source_lemma": "soldier",
+        "target_lemma": "timber"
     },
     "SENSE|m_en_gbus0982610.046 --> TEXT|m_en_gbus0982610.046_def:27:8 --> SENSE|m_en_gbus1003820.005": {
         "cardword": "SPRING",
         "clue": "STRONGLY",
-        "label": 1
+        "label": 1,
+        "source_lemma": "spring",
+        "target_lemma": "strongly"
     },
     "SENSE|m_en_gbus1006330.005 --> TEXT|m_en_gbus1006330.005_def:120:5 --> SENSE|m_en_gbus1174330.042": {
         "cardword": "SUB",
         "clue": "YEAR",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Sub-Atlantic",
+        "target_lemma": "year"
     },
     "SENSE|m_en_gbus1010920.034 --> TEXT|m_en_gbus1010920.034_def:7:7 --> SENSE|m_en_gbus0191940.006": {
         "cardword": "SUIT",
         "clue": "CLOTHES",
-        "label": 2
+        "label": 2,
+        "source_lemma": "suit",
+        "target_lemma": "clothes"
     },
     "SENSE|m_en_gbus1044650.017 --> TEXT|m_en_gbus1044650.017_def:2:6 --> SENSE|m_en_gbus0184210.006": {
         "cardword": "THEATER",
         "clue": "CINEMA",
-        "label": 2
+        "label": 2,
+        "source_lemma": "theatre",
+        "target_lemma": "cinema"
     },
     "SENSE|m_en_gbus1047130.008 --> TEXT|m_en_gbus1047130.008_def:28:6 --> SENSE|m_en_gbus0768650.009": {
         "cardword": "THIEF",
         "clue": "PERSON",
-        "label": 1
+        "label": 1,
+        "source_lemma": "thief",
+        "target_lemma": "person"
     },
     "SENSE|m_en_gbus1142050.008 --> TEXT|m_en_gbus1142050.008_def:12:6 --> SENSE|m_en_gbus0270380.006": {
         "cardword": "WASHER",
         "clue": "DEVICE",
-        "label": 2
+        "label": 2,
+        "source_lemma": "washer",
+        "target_lemma": "device"
     },
     "SENSE|m_en_gbus1143520.005 --> TEXT|m_en_gbus1143520.005_def:60:9 --> SENSE|m_en_gbus1143510.014": {
         "cardword": "GLASS",
         "clue": "WATERFORD",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Waterford glass",
+        "target_lemma": "Waterford"
     },
     "SENSE|m_en_gbus1152130.005 --> TEXT|m_en_gbus1152130.005_def:6:3 --> SENSE|m_en_gbus0470850.023": {
         "cardword": "WHALE",
         "clue": "HIT",
-        "label": 2
+        "label": 2,
+        "source_lemma": "whale",
+        "target_lemma": "hit"
     }
 }

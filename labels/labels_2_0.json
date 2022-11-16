@@ -2,21 +2,29 @@
     "SENSE|Ancient_Greece --> TEXT|Ancient_Greece_def:193:14 --> SENSE|m_en_gbus0584590.004 --> TEXT|m_en_gbus0584590.004_def:37:11 --> SENSE|m_en_gbus0584610.005": {
         "cardword": "GREECE",
         "clue": "LINGUISTICS",
-        "label": 1
+        "label": 1,
+        "source_lemma": "Ancient Greece",
+        "target_lemma": "linguistics"
     },
     "SENSE|Ancient_Greece --> TEXT|Ancient_Greece_def:216:4 --> SENSE|m_en_gbus0186000.006 --> TEXT|m_en_gbus0186000.006_def:2:5 --> SENSE|m_en_gbus0565860.006": {
         "cardword": "GREECE",
         "clue": "LARGE",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Ancient Greece",
+        "target_lemma": "large"
     },
     "SENSE|m_en_gbus0411110.005 --> TEXT|m_en_gbus0411110.005_text_1:85:12 --> SENSE|m_en_gbus0273780.007 --> DOMAIN|m_en_gbus0273780.007:m_en_gbus0795630.016 --> SENSE|m_en_gbus0795630.016": {
         "cardword": "GERMANY",
         "clue": "POLITICS",
-        "label": 2
+        "label": 2,
+        "source_lemma": "Germany",
+        "target_lemma": "politics"
     },
     "SENSE|m_en_gbus1084360.004 --> TEXT|m_en_gbus1084360.004_def:13:12 --> SENSE|m_en_gbus0971290.009 --> TEXT|m_en_gbus0971290.009_def:92:6 --> SENSE|m_en_gbus0857520.016": {
         "cardword": "PARK",
         "clue": "REGIONS",
-        "label": 0
+        "label": 0,
+        "source_lemma": "Tuxedo Park",
+        "target_lemma": "region"
     }
 }
