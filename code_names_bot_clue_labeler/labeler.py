@@ -12,19 +12,20 @@ import os
 
 def get_expansions():
     parser = ArgumentParser()
-    parser.add_argument("n", type=int, default=1)
+    parser.add_argument("o", type=int)
+    parser.add_argument("i", type=int)
     args = parser.parse_args()
-    return args.n
+    return args.o, args.i
 
 
 def valid_clue(cardword, clue):
     return not clue in cardword and not cardword in clue and not " " in clue and not "-" in clue
 
 
-def select_random_path(cardwords, graph, labeled_paths, expansions):
+def select_random_path(cardwords, graph, labeled_paths, out_expansions, in_expansions):
     cardword = random.choice(cardwords)
     while True:
-        path = get_random_path(graph, cardword, expansions)
+        path = get_random_path(graph, cardword, out_expansions, in_expansions)
         
         if path is None:
             continue
@@ -47,8 +48,8 @@ def main():
     with open(TEXT_SENSES, "r") as file:
         text_senses = json.loads(file.read())
 
-    expansions = get_expansions()
-    labels_path = os.path.join(LABELS_DIR, f"labels_{expansions}.json")
+    out_expansions, in_expansions = get_expansions()
+    labels_path = os.path.join(LABELS_DIR, f"labels_{out_expansions}_{in_expansions}.json")
     with open(labels_path, "r") as file:
         labels = json.loads(file.read())
 
@@ -59,8 +60,9 @@ def main():
     labeled_paths = set(labels.keys())
 
     while(True):
-        cardword, clue, path = select_random_path(cardwords, text_graph, labeled_paths, expansions)
+        cardword, clue, path = select_random_path(cardwords, text_graph, labeled_paths, out_expansions, in_expansions)
         path_key = path_to_key(text_graph, path)
+        print(path_key)
         print_path_text(path_to_text(path, text_graph, dictionary, text_senses))
 
         input_num = input("Relation [3=WRONG DISAMBIGUATION, 0=UNRELATED, 1=WEAK, 2=STRONG]:")

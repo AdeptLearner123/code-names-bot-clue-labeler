@@ -10,28 +10,26 @@ def random_select_next_node(graph, path, curr_node, outward, node_types):
     return random.choice(next_nodes)
 
 
-def get_random_path(graph, lemma, expansions):
+def get_random_path(graph, lemma, out_expansions, in_expansions):
     source = get_key("LEMMA", lemma)
 
     path = [source]
     curr_sense = random_select_next_node(graph, path, source, True, ["SENSE"])
     path.append(curr_sense)
     
-    outward = random.random() > 0.5
-    for i in range(expansions):
-        relation_node = random_select_next_node(graph, path, curr_sense, outward, ["TEXT"]) #["TEXT", "CLASS", "DOMAIN", "SYNONYM"])
+    for is_outward in [True] * out_expansions + [False] * in_expansions:
+        relation_node = random_select_next_node(graph, path, curr_sense, is_outward, ["TEXT", "CLASS", "DOMAIN", "SYNONYM"])
         
         if relation_node is None:
             return None
 
         path.append(relation_node)
-        curr_sense = random_select_next_node(graph, path, relation_node, outward, ["SENSE"])
+        curr_sense = random_select_next_node(graph, path, relation_node, is_outward, ["SENSE"])
         
         if curr_sense is None:
             return None
 
         path.append(curr_sense)
-        outward = outward and random.random() > 0.5
 
     target_lemma = random_select_next_node(graph, path, curr_sense, False, ["LEMMA"])
 
