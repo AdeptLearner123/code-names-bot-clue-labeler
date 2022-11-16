@@ -1,0 +1,12 @@
+{
+    "SENSE|m_en_gbus0608490.007 --> TEXT|m_en_gbus0608490.007_def:4:6 --> SENSE|m_en_gbus0802760.007 <-- TEXT|m_en_gbus0803480.009_def:25:6 <-- SENSE|m_en_gbus0803480.009": {
+        "cardword": "MAIL",
+        "clue": "POSTMARKS",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0805510.010 --> TEXT|m_en_gbus0805510.010_def:59:15 --> SENSE|m_en_gbus0808740.003 <-- TEXT|m_en_gbus0120380.008_def:38:14 <-- SENSE|m_en_gbus0120380.008": {
+        "cardword": "POUND",
+        "clue": "BRACTEATE",
+        "label": 1
+    }
+}

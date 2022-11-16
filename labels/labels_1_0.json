@@ -19,11 +19,6 @@
         "clue": "DRAMA",
         "label": 2
     },
-    "SENSE|m_en_gb_oed129462_34029418.002 <-- TEXT|m_en_gb_oed163986_192594107.002_def:84:13 <-- SENSE|m_en_gb_oed163986_192594107.002": {
-        "cardword": "APPLE",
-        "clue": "RESTORATION",
-        "label": 2
-    },
     "SENSE|m_en_gb_oed132924_32992135.002 --> TEXT|m_en_gb_oed132924_32992135.002_def:6:6 --> SENSE|m_en_gbus0724390.010": {
         "cardword": "APPLE",
         "clue": "ORANGE",
@@ -84,20 +79,10 @@
         "clue": "USE",
         "label": 0
     },
-    "SENSE|m_en_gbus0077420.005 <-- TEXT|m_en_gbus1113300.039_def:3:3 <-- SENSE|m_en_gbus1113300.039": {
-        "cardword": "BAT",
-        "clue": "UP",
-        "label": 2
-    },
     "SENSE|m_en_gbus0078580.013 --> TEXT|m_en_gbus0078580.013_def:44:9 --> SENSE|m_en_gbus0211620.029": {
         "cardword": "BATTERY",
         "clue": "CONNECT",
         "label": 2
-    },
-    "SENSE|m_en_gbus0088580.005 <-- TEXT|m_en_gbus0397180.004_def:54:6 <-- SENSE|m_en_gbus0397180.004": {
-        "cardword": "BERLIN",
-        "clue": "WILHELM",
-        "label": 3
     },
     "SENSE|m_en_gbus0125270.029 --> TEXT|m_en_gbus0125270.029_def:29:8 --> SENSE|m_en_gbus0121710.009": {
         "cardword": "BRIDGE",
@@ -128,11 +113,6 @@
         "cardword": "CHEST",
         "clue": "BODY",
         "label": 2
-    },
-    "SENSE|m_en_gbus0184670.012 <-- TEXT|m_en_gbus0341290.014_def:65:6 <-- SENSE|m_en_gbus0341290.014": {
-        "cardword": "CIRCLE",
-        "clue": "EXIT",
-        "label": 1
     },
     "SENSE|m_en_gbus0215190.012 --> TEXT|m_en_gbus0215190.012_def:9:9 --> SENSE|m_en_gbus0016900.007": {
         "cardword": "CONTRACT",
@@ -189,11 +169,6 @@
         "clue": "NICKNAME",
         "label": 2
     },
-    "SENSE|m_en_gbus0412510.014 <-- TEXT|m_en_gbus0149750.006_text_0:15:5 <-- SENSE|m_en_gbus0149750.006": {
-        "cardword": "GIANT",
-        "clue": "CAPELLA",
-        "label": 3
-    },
     "SENSE|m_en_gbus0412510.016 --> TEXT|m_en_gbus0412510.016_def:29:8 --> SENSE|m_en_gbus0413540.005": {
         "cardword": "GIANT",
         "clue": "GIGANTIC",
@@ -219,11 +194,6 @@
         "clue": "WARLIKE",
         "label": 2
     },
-    "SENSE|m_en_gbus0480960.006 <-- TEXT|m_en_gbus0645940.007_def:20:5 <-- SENSE|m_en_gbus0645940.007": {
-        "cardword": "HOTEL",
-        "clue": "MINIBAR",
-        "label": 2
-    },
     "SENSE|m_en_gbus0529240.002 --> TEXT|m_en_gbus0529240.002_def:67:10 --> SENSE|m_en_gbus0310650.008": {
         "cardword": "GRASS",
         "clue": "ECOLOGICAL",
@@ -243,11 +213,6 @@
         "cardword": "KEY",
         "clue": "MAKE",
         "label": 0
-    },
-    "SENSE|m_en_gbus0553240.021 <-- TEXT|m_en_gbus0339550.036_def:168:6 <-- SENSE|m_en_gbus0339550.036": {
-        "cardword": "KNIGHT",
-        "clue": "EXCHANGE",
-        "label": 1
     },
     "SENSE|m_en_gbus0564510.005 --> TEXT|m_en_gbus0564510.005_def:72:9 --> SENSE|m_en_gbus0344680.006": {
         "cardword": "FILM",
@@ -304,25 +269,10 @@
         "clue": "SPECIFY",
         "label": 0
     },
-    "SENSE|m_en_gbus0711360.006 <-- TEXT|m_en_gbus0711340.007_def:47:7 <-- SENSE|m_en_gbus0711340.007": {
-        "cardword": "OCTOPUS",
-        "clue": "OCTOPOD",
-        "label": 2
-    },
-    "SENSE|m_en_gbus0717430.027 <-- TEXT|m_en_gb_oed131096.004_def:187:11 <-- SENSE|m_en_gb_oed131096.004": {
-        "cardword": "OLIVE",
-        "clue": "OLIVA",
-        "label": 2
-    },
     "SENSE|m_en_gbus0752670.067 --> TEXT|m_en_gbus0752670.067_def:13:10 --> SENSE|m_en_gbus0206310.005": {
         "cardword": "PASS",
         "clue": "COMPLETION",
         "label": 2
-    },
-    "SENSE|m_en_gbus0788840.021 <-- TEXT|Ronaldinho_text_1:351:7 <-- SENSE|Ronaldinho": {
-        "cardword": "PLAY",
-        "clue": "RONALDINHO",
-        "label": 1
     },
     "SENSE|m_en_gbus0799200.012 --> TEXT|m_en_gbus0799200.012_def:4:10 --> SENSE|m_en_gbus0199540.009": {
         "cardword": "POOL",
@@ -348,11 +298,6 @@
         "cardword": "SPRING",
         "clue": "STRONGLY",
         "label": 1
-    },
-    "SENSE|m_en_gbus1006120.006 <-- TEXT|m_en_gb_oed246426.002_def:155:3 <-- SENSE|m_en_gb_oed246426.002": {
-        "cardword": "SUB",
-        "clue": "OBERLEUTNANT",
-        "label": 3
     },
     "SENSE|m_en_gbus1006330.005 --> TEXT|m_en_gbus1006330.005_def:120:5 --> SENSE|m_en_gbus1174330.042": {
         "cardword": "SUB",
@@ -387,11 +332,6 @@
     "SENSE|m_en_gbus1152130.005 --> TEXT|m_en_gbus1152130.005_def:6:3 --> SENSE|m_en_gbus0470850.023": {
         "cardword": "WHALE",
         "clue": "HIT",
-        "label": 2
-    },
-    "SENSE|m_en_gbus1168590.007 <-- TEXT|m_en_gbus1065850.005_def:47:4 <-- SENSE|m_en_gbus1065850.005": {
-        "cardword": "WORM",
-        "clue": "TOXOCARA",
         "label": 2
     }
 }

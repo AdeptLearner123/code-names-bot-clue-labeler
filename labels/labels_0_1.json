@@ -1,0 +1,62 @@
+{
+    "SENSE|m_en_gb_oed129462_34029418.002 <-- TEXT|m_en_gb_oed163986_192594107.002_def:84:13 <-- SENSE|m_en_gb_oed163986_192594107.002": {
+        "cardword": "APPLE",
+        "clue": "RESTORATION",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0077420.005 <-- TEXT|m_en_gbus1113300.039_def:3:3 <-- SENSE|m_en_gbus1113300.039": {
+        "cardword": "BAT",
+        "clue": "UP",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0088580.005 <-- TEXT|m_en_gbus0397180.004_def:54:6 <-- SENSE|m_en_gbus0397180.004": {
+        "cardword": "BERLIN",
+        "clue": "WILHELM",
+        "label": 3
+    },
+    "SENSE|m_en_gbus0184670.012 <-- TEXT|m_en_gbus0341290.014_def:65:6 <-- SENSE|m_en_gbus0341290.014": {
+        "cardword": "CIRCLE",
+        "clue": "EXIT",
+        "label": 1
+    },
+    "SENSE|m_en_gbus0412510.014 <-- TEXT|m_en_gbus0149750.006_text_0:15:5 <-- SENSE|m_en_gbus0149750.006": {
+        "cardword": "GIANT",
+        "clue": "CAPELLA",
+        "label": 3
+    },
+    "SENSE|m_en_gbus0480960.006 <-- TEXT|m_en_gbus0645940.007_def:20:5 <-- SENSE|m_en_gbus0645940.007": {
+        "cardword": "HOTEL",
+        "clue": "MINIBAR",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0553240.021 <-- TEXT|m_en_gbus0339550.036_def:168:6 <-- SENSE|m_en_gbus0339550.036": {
+        "cardword": "KNIGHT",
+        "clue": "EXCHANGE",
+        "label": 1
+    },
+    "SENSE|m_en_gbus0711360.006 <-- TEXT|m_en_gbus0711340.007_def:47:7 <-- SENSE|m_en_gbus0711340.007": {
+        "cardword": "OCTOPUS",
+        "clue": "OCTOPOD",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0717430.027 <-- TEXT|m_en_gb_oed131096.004_def:187:11 <-- SENSE|m_en_gb_oed131096.004": {
+        "cardword": "OLIVE",
+        "clue": "OLIVA",
+        "label": 2
+    },
+    "SENSE|m_en_gbus0788840.021 <-- TEXT|Ronaldinho_text_1:351:7 <-- SENSE|Ronaldinho": {
+        "cardword": "PLAY",
+        "clue": "RONALDINHO",
+        "label": 1
+    },
+    "SENSE|m_en_gbus1006120.006 <-- TEXT|m_en_gb_oed246426.002_def:155:3 <-- SENSE|m_en_gb_oed246426.002": {
+        "cardword": "SUB",
+        "clue": "OBERLEUTNANT",
+        "label": 3
+    },
+    "SENSE|m_en_gbus1168590.007 <-- TEXT|m_en_gbus1065850.005_def:47:4 <-- SENSE|m_en_gbus1065850.005": {
+        "cardword": "WORM",
+        "clue": "TOXOCARA",
+        "label": 2
+    }
+}
