@@ -19,7 +19,7 @@ def get_random_path(graph, lemma, expansions):
     
     outward = random.random() > 0.5
     for i in range(expansions):
-        relation_node = random_select_next_node(graph, path, curr_sense, outward, ["TEXT", "CLASS", "DOMAIN", "SYNONYM"])
+        relation_node = random_select_next_node(graph, path, curr_sense, outward, ["TEXT"]) #["TEXT", "CLASS", "DOMAIN", "SYNONYM"])
         
         if relation_node is None:
             return None
@@ -34,5 +34,9 @@ def get_random_path(graph, lemma, expansions):
         outward = outward and random.random() > 0.5
 
     target_lemma = random_select_next_node(graph, path, curr_sense, False, ["LEMMA"])
+
+    if target_lemma is None:
+        return None
+
     path.append(target_lemma)
     return path

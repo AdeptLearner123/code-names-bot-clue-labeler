@@ -13,7 +13,9 @@ tqdm = "^4.64.1"
 colorama = "^0.4.6"
 
 [tool.poetry.scripts]
-labeler                                  = "code_names_bot_clue_labeler.labeler:main"
+labeler                                 = "code_names_bot_clue_labeler.labeler:main"
+text-labeler                            = "code_names_bot_clue_labeler.text_labeler:main"
+test-path-to-text                       = "tests.test_path_to_text:main"
 
 [build-system]
 requires = ["poetry-core"]

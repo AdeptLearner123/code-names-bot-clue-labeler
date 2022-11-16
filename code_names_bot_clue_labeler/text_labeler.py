@@ -59,6 +59,12 @@ def get_input_num():
             return int(input_num)
 
 
+def count_total(labels):
+    total = 0
+    for key in labels:
+        total += len(labels[key]["labels"])
+    return total
+
 
 def main():
     with open(CARDWORDS, "r") as file:
@@ -74,6 +80,8 @@ def main():
     with open(DICTIONARY, "r") as file:
         dictionary = json.loads(file.read())
 
+    print("Total labels", count_total(labels))
+    
     text_graph = create_text_digraph()
     labeled_paths = set(labels.keys())
 
